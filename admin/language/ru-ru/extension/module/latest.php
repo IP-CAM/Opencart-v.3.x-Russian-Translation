@@ -4,7 +4,7 @@ $_['heading_title']    = 'Latest';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified latest module!';
+$_['text_success']     = 'Успех: You have modified latest module!';
 $_['text_edit']        = 'Edit Latest Module';
 
 // Entry

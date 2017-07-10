@@ -4,7 +4,7 @@ $_['heading_title']  = 'Reset your password';
 
 // Text
 $_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_success']   = 'Успех: Your password has been successfully updated.';
 
 // Entry
 $_['entry_password'] = 'Password';

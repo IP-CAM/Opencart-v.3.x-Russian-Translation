@@ -4,7 +4,7 @@ $_['heading_title']      = 'Anti-Fraud IP';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
+$_['text_success']       = 'Успех: You have modified Anti-Fraud IP!';
 $_['text_edit']          = 'Edit Anti-Fraud IP';
 $_['text_ip_add']        = 'Add IP Address';
 $_['text_ip_list']       = 'Fraud IP Address List';

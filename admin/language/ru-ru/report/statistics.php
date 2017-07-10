@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Statistics';
 
 // Text
-$_['text_success']          = 'Success: You have modified statistics!';
+$_['text_success']          = 'Успех: You have modified statistics!';
 $_['text_list']             = 'Statistics List';
 $_['text_order_sale']       = 'Order Sales';
 $_['text_order_processing'] = 'Orders Processing';

@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Categories';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
+$_['text_success']           = 'Успех: You have modified categories!';
 $_['text_list']              = 'Category List';
 $_['text_add']               = 'Add Category';
 $_['text_edit']              = 'Edit Category';

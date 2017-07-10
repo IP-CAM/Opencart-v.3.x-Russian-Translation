@@ -4,7 +4,7 @@ $_['heading_title']    = 'Total Orders';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard orders!';
+$_['text_success']     = 'Успех: You have modified dashboard orders!';
 $_['text_edit']        = 'Edit Dashboard Orders';
 $_['text_view']        = 'View more...';
 

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Google Sitemap';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Google Sitemap feed!';
+$_['text_success']     = 'Успех: You have modified Google Sitemap feed!';
 $_['text_edit']        = 'Edit Google Sitemap';
 
 // Entry

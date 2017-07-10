@@ -4,7 +4,7 @@ $_['heading_title']					 = 'PayPal Express Checkout';
 
 // Text
 $_['text_extension']				 = 'Extensions';
-$_['text_success']				 	 = 'Success: You have modified PayPal Express Checkout account details!';
+$_['text_success']				 	 = 'Успех: You have modified PayPal Express Checkout account details!';
 $_['text_edit']                      = 'Edit PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Authorization';
@@ -17,7 +17,7 @@ $_['text_show_advanced']             = 'Show Advanced';
 $_['text_show_quick_setup']          = 'Show Quick Setup';
 $_['text_quick_setup']             	 = 'Quick setup - Link an existing or create a new PayPal account to start accepting payments in minutes';
 $_['text_paypal_consent']		 	 = 'By using the quick setup tool you allow PayPal to receive information about your store';
-$_['text_success_connect']			 = 'Success: You have connected your PayPal account!';
+$_['text_success_connect']			 = 'Успех: You have connected your PayPal account!';
 $_['text_preferred_main']		 	 = 'Gives your buyers a simplified checkout experience on multiple devices that keeps them local to your website throughout the payment authorization process';
 $_['text_learn_more']			 	 = '(Learn more)';
 $_['text_preferred_li_1']			 = 'Start accepting PayPal in three clicks';

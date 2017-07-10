@@ -4,7 +4,7 @@ $_['heading_title']        = 'Log In with PayPal';
 
 // Text
 $_['text_extension']       = 'Extensions';
-$_['text_success']         = 'Success: You have modified Log In with PayPal module!';
+$_['text_success']         = 'Успех: You have modified Log In with PayPal module!';
 $_['text_edit']            = 'Edit Log In with PayPal Module';
 $_['text_button_grey']     = 'Grey';
 $_['text_button_blue']     = 'Blue (Recommended)';

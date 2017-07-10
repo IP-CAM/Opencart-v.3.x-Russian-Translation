@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Shipping address has been set!';
-$_['text_method']        = 'Success: Shipping method has been set!';
+$_['text_address']       = 'Успех: Shipping address has been set!';
+$_['text_method']        = 'Успех: Shipping method has been set!';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to access the API!';

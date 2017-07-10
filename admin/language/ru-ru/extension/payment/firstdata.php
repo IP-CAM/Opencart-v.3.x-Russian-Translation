@@ -4,7 +4,7 @@ $_['heading_title']					 = 'First Data EMEA Connect (3DSecure enabled)';
 
 // Text
 $_['text_extension']				 = 'Extensions';
-$_['text_success']					 = 'Success: You have modified First Data account details!';
+$_['text_success']					 = 'Успех: You have modified First Data account details!';
 $_['text_edit']                      = 'Edit First Data EMEA Connect (3DSecure enabled)';
 $_['text_notification_url']			 = 'Notification URL';
 $_['text_live']						 = 'Live';

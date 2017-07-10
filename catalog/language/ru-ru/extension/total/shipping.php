@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Estimate Shipping &amp; Taxes';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
+$_['text_success']         = 'Успех: Your shipping estimate has been applied!';
 $_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
 $_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
 

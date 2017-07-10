@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Coupons';
 
 // Text
-$_['text_success']        = 'Success: You have modified coupons!';
+$_['text_success']        = 'Успех: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';

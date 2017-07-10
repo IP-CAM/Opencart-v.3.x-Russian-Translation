@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'Успех: API session successfully started!';
 
 // Error
 $_['error_key']    = 'Warning: Incorrect API Key!';

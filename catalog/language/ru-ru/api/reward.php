@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your reward points discount has been applied!';
+$_['text_success']     = 'Успех: Your reward points discount has been applied!';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to access the API!';

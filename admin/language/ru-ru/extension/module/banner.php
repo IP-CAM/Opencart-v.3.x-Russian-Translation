@@ -4,7 +4,7 @@ $_['heading_title']    = 'Banner';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified banner module!';
+$_['text_success']     = 'Успех: You have modified banner module!';
 $_['text_edit']        = 'Edit Banner Module';
 
 // Entry

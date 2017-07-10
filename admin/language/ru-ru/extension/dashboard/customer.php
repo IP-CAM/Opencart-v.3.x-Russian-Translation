@@ -4,7 +4,7 @@ $_['heading_title']    = 'Total Customers';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard customer!';
+$_['text_success']     = 'Успех: You have modified dashboard customer!';
 $_['text_edit']        = 'Edit Dashboard Customer';
 $_['text_view']        = 'View more...';
 

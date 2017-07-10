@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = 'Менеджер изображений';
 
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'Успех: Your file has been uploaded!';
+$_['text_directory']   = 'Успех: Directory created!';
+$_['text_delete']      = 'Успех: Your file or directory has been deleted!';
 
 // Entry
 $_['entry_search']     = 'Search..';

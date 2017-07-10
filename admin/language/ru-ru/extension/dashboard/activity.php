@@ -4,7 +4,7 @@ $_['heading_title']                = 'Recent Activity';
 
 // Text
 $_['text_extension']               = 'Extensions';
-$_['text_success']                 = 'Success: You have modified dashboard activity!';
+$_['text_success']                 = 'Успех: You have modified dashboard activity!';
 $_['text_edit']                    = 'Edit Dashboard Recent Activity';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> registered a new account.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> updated their account details.';

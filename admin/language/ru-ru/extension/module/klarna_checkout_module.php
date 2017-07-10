@@ -4,7 +4,7 @@ $_['heading_title']	   = 'Klarna Checkout';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']	   = 'Success: You have modified module Klarna Checkout!';
+$_['text_success']	   = 'Успех: You have modified module Klarna Checkout!';
 
 //Entry
 $_['entry_status']	   = 'Status';

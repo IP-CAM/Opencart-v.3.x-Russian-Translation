@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Theme Editor';
 
 // Text
-$_['text_success']      = 'Success: You have modified themes!';
+$_['text_success']      = 'Успех: You have modified themes!';
 $_['text_edit']         = 'Edit Theme';
 $_['text_store']        = 'Choose your store';
 $_['text_template']     = 'Choose a template';

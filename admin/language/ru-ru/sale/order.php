@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Orders';
 
 // Text
-$_['text_success']               = 'Success: You have modified orders!';
+$_['text_success']               = 'Успех: You have modified orders!';
 $_['text_list']                  = 'Order List';
 $_['text_add']                   = 'Add Order';
 $_['text_edit']                  = 'Edit Order';
@@ -53,11 +53,11 @@ $_['text_product']               = 'Add Product(s)';
 $_['text_voucher']               = 'Add Voucher(s)';
 $_['text_shipping']              = 'Shipping';
 $_['text_contact']               = 'Contact';
-$_['text_reward_added']          = 'Success: Reward points added!';
-$_['text_reward_removed']        = 'Success: Reward points removed!';
-$_['text_commission_added']      = 'Success: Commission added!';
-$_['text_commission_removed']    = 'Success: Commission removed!';
-$_['text_restock']               = 'Success: Products have been restocked!';
+$_['text_reward_added']          = 'Успех: Reward points added!';
+$_['text_reward_removed']        = 'Успех: Reward points removed!';
+$_['text_commission_added']      = 'Успех: Commission added!';
+$_['text_commission_removed']    = 'Успех: Commission removed!';
+$_['text_restock']               = 'Успех: Products have been restocked!';
 $_['text_upload']                = 'Your file was successfully uploaded!';
 $_['text_picklist']              = 'Dispatch Note';
 

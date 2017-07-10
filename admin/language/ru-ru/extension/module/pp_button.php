@@ -4,7 +4,7 @@ $_['heading_title']    = 'PayPal Express Checkout Button';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified PayPal Express Checkout Button module!';
+$_['text_success']     = 'Успех: You have modified PayPal Express Checkout Button module!';
 $_['text_edit']        = 'Edit PayPal Express Checkout Button Module';
 $_['text_info']        = 'The button will <u>not</u> appear under certain conditions:';
 $_['text_info_li1']    = 'The cart is empty and no vouchers have been applied';

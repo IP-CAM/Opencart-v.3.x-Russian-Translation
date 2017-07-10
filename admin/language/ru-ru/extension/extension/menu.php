@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Menu';
 
 // Text
-$_['text_success']     = 'Success: You have modified menu!';
+$_['text_success']     = 'Успех: You have modified menu!';
 $_['text_list']        = 'Menu List';
 
 // Column

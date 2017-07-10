@@ -10,7 +10,7 @@ $_['text_payment']              = 'Payment Information';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Bank Transfer';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_success']              = 'Успех: Your account has been successfully updated.';
 $_['text_agree']                = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry

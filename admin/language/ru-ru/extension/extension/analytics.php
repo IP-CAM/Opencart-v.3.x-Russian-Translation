@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Analytics';
 
 // Text
-$_['text_success']     = 'Success: You have modified analytics!';
+$_['text_success']     = 'Успех: You have modified analytics!';
 $_['text_list']        = 'Analytics List';
 
 // Column

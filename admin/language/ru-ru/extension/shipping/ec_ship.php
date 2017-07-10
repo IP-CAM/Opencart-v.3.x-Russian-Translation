@@ -4,7 +4,7 @@ $_['heading_title']                            = 'EC-Ship';
 
 // Text
 $_['text_extension']                           = 'Extension';
-$_['text_success']                             = 'Success: You have modified EC-Ship shipping!';
+$_['text_success']                             = 'Успех: You have modified EC-Ship shipping!';
 $_['text_edit']                                = 'Edit EC-Ship Shipping';
 $_['text_air_registered_mail']                 = 'Air Registered Mail';
 $_['text_air_parcel']                          = 'Air Parcel(Package maxiumn weight 20KG)';

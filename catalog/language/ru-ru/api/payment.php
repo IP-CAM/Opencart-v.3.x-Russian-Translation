@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Payment address has been set!';
-$_['text_method']        = 'Success: Payment method has been set!';
+$_['text_address']       = 'Успех: Payment address has been set!';
+$_['text_method']        = 'Успех: Payment method has been set!';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to access the API!';

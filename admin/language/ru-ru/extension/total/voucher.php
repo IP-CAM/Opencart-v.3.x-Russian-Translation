@@ -4,7 +4,7 @@ $_['heading_title']    = 'Gift Voucher';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified gift voucher total!';
+$_['text_success']     = 'Успех: You have modified gift voucher total!';
 $_['text_edit']        = 'Edit Gift Voucher Total';
 
 // Entry

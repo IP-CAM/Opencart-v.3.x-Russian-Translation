@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Captchas';
 
 // Text
-$_['text_success']     = 'Success: You have modified captchas!';
+$_['text_success']     = 'Успех: You have modified captchas!';
 $_['text_list']        = 'Captcha List';
 
 // Column

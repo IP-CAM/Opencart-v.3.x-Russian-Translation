@@ -26,7 +26,7 @@ $_['text_access_token_expires_placeholder']             = 'Not setup';
 $_['text_acknowledge_cron']                             = 'I confirm that I have set up an automated CRON task using one of the methods above.';
 $_['text_admin_notifications']                          = 'Admin notifications';
 $_['text_authorize_label']                              = 'Authorize';
-$_['text_canceled_success']                             = 'Success: You have succesfully canceled this payment!';
+$_['text_canceled_success']                             = 'Успех: You have succesfully canceled this payment!';
 $_['text_capture']                                      = 'Capture';
 $_['text_client_id_help']                               = 'Get this from the Manage Application page on Square';
 $_['text_client_id_label']                              = 'Square Application ID';
@@ -113,7 +113,7 @@ $_['text_sandbox_section_heading']                      = 'Square Sandbox Settin
 $_['text_select_location']                              = 'Select location';
 $_['text_settings_section_heading']                     = 'Square Settings';
 $_['text_squareup']                                     = '<a target="_BLANK" href="https://squareup.com"><img src="view/image/payment/squareup.png" alt="Square" title="Square" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_success']                                      = 'Success: You have modified Square payment module!';
+$_['text_success']                                      = 'Успех: You have modified Square payment module!';
 $_['text_success_capture']                              = 'Transaction successfully captured!';
 $_['text_success_refund']                               = 'Transaction successfully refunded!';
 $_['text_success_void']                                 = 'Transaction successfully voided!';
