@@ -29,19 +29,19 @@ $_['entry_image']            = 'Изображение';
 $_['entry_top']              = 'Top';
 $_['entry_column']           = 'Колонок';
 $_['entry_sort_order']       = 'Порядок сортировки';
-$_['entry_status']           = 'Status';
+$_['entry_status']           = 'Статус';
 $_['entry_layout']           = 'Layout Override';
 
 // Help
-$_['help_filter']            = '(Autocomplete)';
-$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
+$_['help_filter']            = '(Автозаполнение)';
+$_['help_top']               = 'Отображать в верхнем меню. Работает только для категорий, родственных к верху (top).';
 $_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
 
 // Error
-$_['error_warning']          = 'Внимание: Please check the form carefully for errors!';
-$_['error_permission']       = 'Внимание: You do not have permission to modify categories!';
-$_['error_name']             = 'Category Name must be between 1 and 255 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_keyword']          = 'SEO URL already in use!';
-$_['error_unique']           = 'SEO URL must be unique!';
-$_['error_parent']           = 'The parent category you have chosen is a child of the current one!';
+$_['error_warning']          = 'Внимание: Пожалуйста, тщательно проверьте правильно ли заполнена форма!';
+$_['error_permission']       = 'Внимание: У Вас нет разрешения на редактирование категорий!';
+$_['error_name']             = 'Название категории должно быть длинной от 1 до 255 символов!';
+$_['error_meta_title']       = 'Meta Title должно быть длинной от 1 до 255 символов!';
+$_['error_keyword']          = 'SEO URL уже используется!';
+$_['error_unique']           = 'SEO URL должно быть уникально!';
+$_['error_parent']           = 'Родственная категория, которую Вы выбрали, является дочерней категорией текущей категории!';
