@@ -18,7 +18,7 @@ $_['entry_name']        = 'Attribute Group Name';
 $_['entry_sort_order']  = 'Sort Order';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify attribute groups!';
 $_['error_name']        = 'Attribute Group Name must be between 1 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_attribute']   = 'Внимание: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
+$_['error_product']     = 'Внимание: This attribute group cannot be deleted as it is currently assigned to %s products!';

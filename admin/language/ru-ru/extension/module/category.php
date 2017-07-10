@@ -11,4 +11,4 @@ $_['text_edit']        = 'Edit Category Module';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify category module!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify category module!';

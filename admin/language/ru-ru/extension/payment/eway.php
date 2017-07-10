@@ -28,7 +28,7 @@ $_['entry_sort_order']			= 'Sort order';
 $_['entry_transaction_method']	= 'Transaction Method';
 
 // Error
-$_['error_permission']			= 'Warning: You do not have permission to modify the eWAY payment module';
+$_['error_permission']			= 'Внимание: You do not have permission to modify the eWAY payment module';
 $_['error_username']			= 'eWAY API Key is required!';
 $_['error_password']			= 'eWAY password is required!';
 $_['error_payment_type']		= 'At least one payment type is required!';

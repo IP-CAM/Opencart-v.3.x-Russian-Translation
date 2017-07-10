@@ -26,6 +26,6 @@ $_['help_md5']				= 'The MD5 Hash feature enables you to authenticate that a tra
 $_['help_total']			= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']		= 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
+$_['error_permission']		= 'Внимание: You do not have permission to modify payment Authorize.Net (SIM)!';
 $_['error_merchant']		= 'Merchant ID Required!';
 $_['error_key']				= 'Transaction Key Required!';

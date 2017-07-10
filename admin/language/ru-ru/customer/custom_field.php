@@ -49,7 +49,7 @@ $_['help_regex']           = 'Use regex. E.g: /[a-zA-Z0-9_-]/';
 $_['help_sort_order']      = 'Use minus to count backwards from the last field in the set.';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify custom fields!';
+$_['error_permission']     = 'Внимание: You do not have permission to modify custom fields!';
 $_['error_name']           = 'Custom Field Name must be between 1 and 128 characters!';
-$_['error_type']           = 'Warning: Custom Field Values required!';
+$_['error_type']           = 'Внимание: Custom Field Values required!';
 $_['error_custom_value']   = 'Custom Value Name must be between 1 and 128 characters!';

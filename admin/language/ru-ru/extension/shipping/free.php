@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'Sort Order';
 $_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify free shipping!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify free shipping!';

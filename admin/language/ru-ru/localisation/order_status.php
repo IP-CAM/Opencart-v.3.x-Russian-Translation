@@ -16,9 +16,9 @@ $_['column_action']    = 'Action';
 $_['entry_name']       = 'Order Status Name';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify order statuses!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify order statuses!';
 $_['error_name']       = 'Order Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This order status cannot be deleted as it is currently assigned as the default store order status!';
-$_['error_download']   = 'Warning: This order status cannot be deleted as it is currently assigned as the default download status!';
-$_['error_store']      = 'Warning: This order status cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']      = 'Warning: This order status cannot be deleted as it is currently assigned to %s orders!';
+$_['error_default']    = 'Внимание: This order status cannot be deleted as it is currently assigned as the default store order status!';
+$_['error_download']   = 'Внимание: This order status cannot be deleted as it is currently assigned as the default download status!';
+$_['error_store']      = 'Внимание: This order status cannot be deleted as it is currently assigned to %s stores!';
+$_['error_order']      = 'Внимание: This order status cannot be deleted as it is currently assigned to %s orders!';

@@ -28,4 +28,4 @@ $_['entry_status']      = 'Status';
 $_['entry_sort_order']  = 'Sort Order';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping report!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify shipping report!';

@@ -19,8 +19,8 @@ $_['button_move']      = 'Move';
 $_['button_manual']    = 'Manual';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify the storage directory!';
-$_['error_path']       = 'Warning: Invalid path!';
-$_['error_directory']  = 'Warning: Invalid directory!';
-$_['error_exists']     = 'Warning: Directory already exists!';
-$_['error_writable']   = 'Warning: config.php and admin/config.php need to be made writable!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify the storage directory!';
+$_['error_path']       = 'Внимание: Invalid path!';
+$_['error_directory']  = 'Внимание: Invalid directory!';
+$_['error_exists']     = 'Внимание: Directory already exists!';
+$_['error_writable']   = 'Внимание: config.php and admin/config.php need to be made writable!';

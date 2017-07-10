@@ -13,5 +13,5 @@ $_['entry_code']       = 'Google Analytics Code';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Analytics!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify Google Analytics!';
 $_['error_code']	   = 'Code required!';

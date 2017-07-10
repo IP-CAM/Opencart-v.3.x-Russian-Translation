@@ -25,4 +25,4 @@ $_['entry_type']            = 'Type';
 $_['entry_date_added']      = 'Date Added';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer approvals!';
+$_['error_permission']      = 'Внимание: You do not have permission to modify customer approvals!';

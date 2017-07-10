@@ -20,5 +20,5 @@ $_['entry_sort_order']   = 'Sort Order';
 $_['help_weight_class']  = 'Set to kilograms.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Australia Post shipping!';
+$_['error_permission']   = 'Внимание: You do not have permission to modify Australia Post shipping!';
 $_['error_postcode']     = 'Post Code must be 4 digits!';

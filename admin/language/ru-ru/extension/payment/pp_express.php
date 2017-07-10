@@ -74,7 +74,7 @@ $_['help_colour']					 = '6 character HTML colour code';
 $_['help_currency']					 = 'Used for transaction searches';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal Express Checkout!';
+$_['error_permission']				 = 'Внимание: You do not have permission to modify payment PayPal Express Checkout!';
 $_['error_username']				 = 'API Username Required!';
 $_['error_password']				 = 'API Password Required!';
 $_['error_signature']				 = 'API Signature Required!';

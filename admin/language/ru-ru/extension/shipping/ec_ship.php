@@ -40,7 +40,7 @@ $_['help_service']                             = 'Select the EC-SHIP services to
 $_['help_weight_class']                        = 'Set to kilograms only.';
 
 // Error
-$_['error_permission']                         = 'Warning: You do not have permission to modify EC-SHIP shipping!';
+$_['error_permission']                         = 'Внимание: You do not have permission to modify EC-SHIP shipping!';
 $_['error_api_key']                            = 'Access API Key Required!';
 $_['error_username']                           = 'Username Required!';
 $_['error_api_username']                       = 'API Username Required!';

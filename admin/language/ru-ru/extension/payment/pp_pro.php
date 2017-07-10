@@ -27,7 +27,7 @@ $_['help_test']			 = 'Use the live or testing (sandbox) gateway server to proces
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro Checkout!';
+$_['error_permission']	 = 'Внимание: You do not have permission to modify payment PayPal Website Payment Pro Checkout!';
 $_['error_username']	 = 'API Username Required!';
 $_['error_password']	 = 'API Password Required!';
 $_['error_signature']	 = 'API Signature Required!';

@@ -61,5 +61,5 @@ $_['button_rebate']			  = 'Rebate / refund';
 $_['button_void']			  = 'Void';
 
 // Error
-$_['error_permission']		  = 'Warning: You do not have permission to modify payment SagePay!';
+$_['error_permission']		  = 'Внимание: You do not have permission to modify payment SagePay!';
 $_['error_vendor']			  = 'Vendor ID Required!';

@@ -12,4 +12,4 @@ $_['column_status']     = 'Status';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify other extension!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify other extension!';

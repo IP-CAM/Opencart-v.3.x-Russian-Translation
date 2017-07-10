@@ -23,8 +23,8 @@ $_['entry_value']      = 'Value';
 $_['help_value']       = 'Set to 1.00000 if this is your default weight.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify weight classes!';
 $_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
 $_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_default']    = 'Внимание: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
+$_['error_product']    = 'Внимание: This weight class cannot be deleted as it is currently assigned to %s products!';

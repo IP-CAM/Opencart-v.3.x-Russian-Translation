@@ -65,8 +65,8 @@ $_['button_comment']     = 'Comment';
 $_['button_reply']       = 'Reply';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify extensions!';
-$_['error_opencart']     = 'Warning: You must enter your OpenCart API information before you can make any purchases!';
+$_['error_permission']   = 'Внимание: You do not have permission to modify extensions!';
+$_['error_opencart']     = 'Внимание: You must enter your OpenCart API information before you can make any purchases!';
 $_['error_install']      = 'Extension installation taking place please wait a few seconds before trying to install!';
 $_['error_purchase']     = 'Extension could not be purchased!';
 $_['error_download']     = 'Extension could not be downloaded!';

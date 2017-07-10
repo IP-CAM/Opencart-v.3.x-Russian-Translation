@@ -10,5 +10,5 @@ $_['text_success']  = 'Успех: Your gift certificate discount has been appli
 $_['entry_voucher'] = 'Enter your gift certificate code here';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Внимание: Gift Certificate is either invalid or the balance has been used up!';
+$_['error_empty']   = 'Внимание: Please enter a gift certificate code!';

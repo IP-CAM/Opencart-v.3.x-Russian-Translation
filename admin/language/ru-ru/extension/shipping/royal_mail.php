@@ -44,4 +44,4 @@ $_['tab_international_signed']         = 'International Signed';
 $_['tab_international_economy']        = 'International Economy';
 
 // Error
-$_['error_permission']                 = 'Warning: You do not have permission to modify Royal Mail shipping!';
+$_['error_permission']                 = 'Внимание: You do not have permission to modify Royal Mail shipping!';

@@ -7,7 +7,7 @@ $_['text_xml']         = 'Applying modifications!';
 $_['text_remove']      = 'Removing temporary files!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify extensions!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify extensions!';
 $_['error_install']    = 'Extension installation taking place please wait a few seconds before trying to install!';
 $_['error_unzip']      = 'Zip file could not be opened!';
 $_['error_file']       = 'Install file could not be found!';

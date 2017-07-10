@@ -125,7 +125,7 @@ $_['help_cron_url']                 = 'Set a cron job to call this URL so that t
 $_['help_cron_time']                = 'This is the last time that the cron job URL was executed.';
 
 // Error
-$_['error_permission']              = 'Warning: You do not have permission to modify payment Lay-buy!';
+$_['error_permission']              = 'Внимание: You do not have permission to modify payment Lay-buy!';
 $_['error_membership_id']           = 'Lay-Buys Membership ID Required!';
 $_['error_token']                   = 'Lay-Buy Secret Token Required!';
 $_['error_min_deposit']             = 'Cannot exceed the Maximum Down Payment amount!';

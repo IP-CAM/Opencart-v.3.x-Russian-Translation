@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Sort Order';
 $_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight based shipping!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify weight based shipping!';

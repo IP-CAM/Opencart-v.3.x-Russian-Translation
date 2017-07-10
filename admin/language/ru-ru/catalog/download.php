@@ -24,11 +24,11 @@ $_['help_filename']     = 'You can upload via the upload button or use FTP to up
 $_['help_mask']         = 'It is recommended that the filename and the mask are different to stop people trying to directly link to your downloads.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify downloads!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify downloads!';
 $_['error_name']        = 'Download Name must be between 3 and 64 characters!';
 $_['error_upload']      = 'Upload required!';
 $_['error_filename']    = 'Filename must be between 3 and 128 characters!';
 $_['error_exists']      = 'File does not exist!';
 $_['error_mask']        = 'Mask must be between 3 and 128 characters!';
 $_['error_filetype']    = 'Invalid file type!';
-$_['error_product']     = 'Warning: This download cannot be deleted as it is currently assigned to %s products!';
+$_['error_product']     = 'Внимание: This download cannot be deleted as it is currently assigned to %s products!';

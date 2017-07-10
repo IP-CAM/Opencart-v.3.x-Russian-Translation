@@ -75,5 +75,5 @@ $_['help_transaction_id']        = 'Unique identifier for a transaction screened
 $_['help_credits']               = 'Balance of the credits available after this transaction.';
 
 // Error
-$_['error_permission']           = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
+$_['error_permission']           = 'Внимание: You do not have permission to modify FraudLabs Pro settings!';
 $_['error_key']                  = 'API Key Required!';

@@ -23,6 +23,6 @@ $_['help_password']		 = 'Just use some random password. This will be used to mak
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment Paymate!';
+$_['error_permission']	 = 'Внимание: You do not have permission to modify payment Paymate!';
 $_['error_username']	 = 'Paymate Username required!';
 $_['error_password']	 = 'Password required!';

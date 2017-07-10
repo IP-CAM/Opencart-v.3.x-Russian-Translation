@@ -18,4 +18,4 @@ $_['entry_filename']    = 'Filename';
 $_['entry_date_added']  = 'Date Added';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify uploads!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify uploads!';

@@ -17,4 +17,4 @@ $_['text_layout_link'] = 'Click here to access layouts page';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify PayPal (Powered by Braintree) Button module!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify PayPal (Powered by Braintree) Button module!';

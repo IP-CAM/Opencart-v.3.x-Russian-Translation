@@ -26,11 +26,11 @@ $_['entry_status']            = 'Status';
 $_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {lastname}<br />Company = {company}<br />Address 1 = {address_1}<br />Address 2 = {address_2}<br />City = {city}<br />Postcode = {postcode}<br />Zone = {zone}<br />Zone Code = {zone_code}<br />Country = {country}';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify countries!';
+$_['error_permission']        = 'Внимание: You do not have permission to modify countries!';
 $_['error_name']              = 'Country Name must be between 1 and 128 characters!';
-$_['error_default']           = 'Warning: This country cannot be deleted as it is currently assigned as the default store country!';
-$_['error_store']             = 'Warning: This country cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']           = 'Warning: This country cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']         = 'Warning: This country cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone']              = 'Warning: This country cannot be deleted as it is currently assigned to %s zones!';
-$_['error_zone_to_geo_zone']  = 'Warning: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_default']           = 'Внимание: This country cannot be deleted as it is currently assigned as the default store country!';
+$_['error_store']             = 'Внимание: This country cannot be deleted as it is currently assigned to %s stores!';
+$_['error_address']           = 'Внимание: This country cannot be deleted as it is currently assigned to %s address book entries!';
+$_['error_affiliate']         = 'Внимание: This country cannot be deleted as it is currently assigned to %s affiliates!';
+$_['error_zone']              = 'Внимание: This country cannot be deleted as it is currently assigned to %s zones!';
+$_['error_zone_to_geo_zone']  = 'Внимание: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';

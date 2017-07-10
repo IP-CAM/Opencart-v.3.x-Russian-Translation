@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Do you want to display the shi
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']                         = 'Warning: You do not have permission to modify Fedex shipping!';
+$_['error_permission']                         = 'Внимание: You do not have permission to modify Fedex shipping!';
 $_['error_key']                                = 'Key required!';
 $_['error_password']                           = 'Password required!';
 $_['error_account']                            = 'Account required!';

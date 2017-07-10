@@ -11,4 +11,4 @@ $_['text_edit']        = 'Edit Divido Product Page Calculator';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Divido Product Page Calculator!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify module Divido Product Page Calculator!';

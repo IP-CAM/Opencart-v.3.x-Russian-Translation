@@ -12,12 +12,12 @@ $_['entry_search']     = 'Search..';
 $_['entry_folder']     = 'Folder Name';
 
 // Error
-$_['error_permission'] = 'Warning: Permission Denied!';
-$_['error_filename']   = 'Warning: Filename must be between 3 and 255!';
-$_['error_folder']     = 'Warning: Folder name must be between 3 and 255!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Warning: Directory does not exist!';
-$_['error_filesize']   = 'Warning: Incorrect file size!';
-$_['error_filetype']   = 'Warning: Incorrect file type!';
-$_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
+$_['error_permission'] = 'Внимание: Permission Denied!';
+$_['error_filename']   = 'Внимание: Filename must be between 3 and 255!';
+$_['error_folder']     = 'Внимание: Folder name must be between 3 and 255!';
+$_['error_exists']     = 'Внимание: A file or directory with the same name already exists!';
+$_['error_directory']  = 'Внимание: Directory does not exist!';
+$_['error_filesize']   = 'Внимание: Incorrect file size!';
+$_['error_filetype']   = 'Внимание: Incorrect file type!';
+$_['error_upload']     = 'Внимание: File could not be uploaded for an unknown reason!';
+$_['error_delete']     = 'Внимание: You can not delete this directory!';

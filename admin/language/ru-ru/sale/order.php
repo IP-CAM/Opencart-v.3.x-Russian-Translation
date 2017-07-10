@@ -126,7 +126,7 @@ $_['entry_date_modified']        = 'Date Modified';
 $_['help_override']              = 'If the customers order is being blocked from changing the order status due to an anti-fraud extension enable override.';
 
 // Error
-$_['error_warning']              = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']           = 'Warning: You do not have permission to modify orders!';
-$_['error_action']               = 'Warning: Could not complete this action!';
+$_['error_warning']              = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']           = 'Внимание: You do not have permission to modify orders!';
+$_['error_action']               = 'Внимание: Could not complete this action!';
 $_['error_filetype']             = 'Invalid file type!';

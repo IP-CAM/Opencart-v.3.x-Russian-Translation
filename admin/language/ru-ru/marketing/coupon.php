@@ -51,7 +51,7 @@ $_['help_uses_total']     = 'The maximum number of times the coupon can be used 
 $_['help_uses_customer']  = 'The maximum number of times the coupon can be used by a single customer. Leave blank for unlimited';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify coupons!';
-$_['error_exists']        = 'Warning: Coupon code is already in use!';
+$_['error_permission']    = 'Внимание: You do not have permission to modify coupons!';
+$_['error_exists']        = 'Внимание: Coupon code is already in use!';
 $_['error_name']          = 'Coupon Name must be between 3 and 128 characters!';
 $_['error_code']          = 'Code must be between 3 and 10 characters!';

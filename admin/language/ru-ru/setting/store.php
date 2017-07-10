@@ -84,8 +84,8 @@ $_['help_icon']                    = 'The icon should be a PNG that is 16px x 16
 $_['help_secure']                  = 'To use SSL check with your host if a SSL certificate is installed.';
 
 // Error
-$_['error_warning']                = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']             = 'Warning: You do not have permission to modify stores!';
+$_['error_warning']                = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']             = 'Внимание: You do not have permission to modify stores!';
 $_['error_url']                    = 'Store URL required!';
 $_['error_meta_title']             = 'Title must be between 3 and 32 characters!';
 $_['error_name']                   = 'Store Name must be between 3 and 32 characters!';
@@ -94,5 +94,5 @@ $_['error_address']                = 'Store Address must be between 10 and 256 c
 $_['error_email']                  = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']              = 'Telephone must be between 3 and 32 characters!';
 $_['error_customer_group_display'] = 'You must include the default customer group if you are going to use this feature!';
-$_['error_default']                = 'Warning: You can not delete your default store!';
-$_['error_store']                  = 'Warning: This Store cannot be deleted as it is currently assigned to %s orders!';
+$_['error_default']                = 'Внимание: You can not delete your default store!';
+$_['error_store']                  = 'Внимание: This Store cannot be deleted as it is currently assigned to %s orders!';

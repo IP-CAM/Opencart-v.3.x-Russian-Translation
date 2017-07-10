@@ -56,8 +56,8 @@ $_['help_total']            = 'The checkout total the order must reach before th
 $_['help_logging']          = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify payment Pilibaba!';
+$_['error_warning']         = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']      = 'Внимание: You do not have permission to modify payment Pilibaba!';
 $_['error_merchant_number'] = 'Merchant Number Required!';
 $_['error_secret_key']      = 'Secret Key Required!';
 $_['error_shipping_fee']    = 'Shipping fee must be a decimal number!';

@@ -16,6 +16,6 @@ $_['column_action']    = 'Action';
 $_['entry_name']       = 'Return Reason Name';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return reasons!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify return reasons!';
 $_['error_name']       = 'Return Reason Name must be between 3 and 128 characters!';
-$_['error_return']     = 'Warning: This return reason cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_return']     = 'Внимание: This return reason cannot be deleted as it is currently assigned to %s returned products!';

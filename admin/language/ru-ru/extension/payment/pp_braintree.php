@@ -165,14 +165,14 @@ $_['button_refund']					 	= 'Refund';
 $_['button_filter']					 	= 'Filter';
 
 // Error
-$_['error_permission']				 	= 'Warning: You do not have permission to modify payment Braintree!';
+$_['error_permission']				 	= 'Внимание: You do not have permission to modify payment Braintree!';
 $_['error_php_version']				 	= 'Minimum version of PHP 5.4.0 is required!';
 $_['error_merchant_id']				 	= 'Merchant ID Required!';
 $_['error_public_key']				 	= 'Public Key Required!';
 $_['error_private_key']				 	= 'Private Key Required!';
 $_['error_connection']				 	= 'There was a problem establishing a connection to the Braintree API. Please check your Merchant ID, Public Key, Private Key and Environment settings.';
 $_['error_account']					 	= 'Please enter a valid Merchant Account ID as specified in your Braintree Account';
-$_['error_warning']					 	= 'Warning: Please check the form carefully for errors!';
+$_['error_warning']					 	= 'Внимание: Please check the form carefully for errors!';
 $_['error_3ds_not_ready']			 	= 'You have enabled 3D secure however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
 $_['error_paypal_not_ready']		 	= 'You have enabled PayPal however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
 $_['error_paypal_billing_not_ready'] 	= 'You have enabled PayPal vaulting/billing agreements however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';

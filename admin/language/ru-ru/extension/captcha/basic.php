@@ -11,4 +11,4 @@ $_['text_edit']        = 'Edit Basic Captcha';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Basic Captcha!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify Basic Captcha!';

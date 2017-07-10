@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Sort Order';
 $_['help_total']       = 'The checkout total the order must reach before this order total is deactivated.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify low order fee total!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify low order fee total!';

@@ -11,4 +11,4 @@ $_['text_edit']        = 'Edit Lay-Buy Layout Module';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Lay-Buy Layout module!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify Lay-Buy Layout module!';

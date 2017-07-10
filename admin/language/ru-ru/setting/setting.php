@@ -184,8 +184,8 @@ $_['help_encryption']                = 'Please provide a secret key that will be
 $_['help_compression']               = 'GZIP for more efficient transfer to requesting clients. Compression level must be between 0 - 9.';
 
 // Error
-$_['error_warning']                  = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']               = 'Warning: You do not have permission to modify settings!';
+$_['error_warning']                  = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']               = 'Внимание: You do not have permission to modify settings!';
 $_['error_meta_title']               = 'Title must be between 3 and 32 characters!';
 $_['error_name']                     = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                    = 'Store Owner must be between 3 and 64 characters!';

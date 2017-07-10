@@ -34,7 +34,7 @@ $_['help_product_limit']               = 'Determines how many catalog items are 
 $_['help_product_description_length']  = 'In the list view, short description character limit (categories, special etc)';
 
 // Error
-$_['error_permission']                 = 'Warning: You do not have permission to modify the default store theme!';
+$_['error_permission']                 = 'Внимание: You do not have permission to modify the default store theme!';
 $_['error_limit']                      = 'Product Limit required!';
 $_['error_image_thumb']                = 'Product Image Thumb Size dimensions required!';
 $_['error_image_popup']                = 'Product Image Popup Size dimensions required!';

@@ -49,7 +49,7 @@ $_['tab_settings']				 	  = 'Settings';
 $_['tab_order_status']				  = 'Order Status';
 
 // Error
-$_['error_permission']			 	  = 'Warning: You do not have permission to modify G2APay!';
+$_['error_permission']			 	  = 'Внимание: You do not have permission to modify G2APay!';
 $_['error_email']				 	  = 'E-Mail Required!';
 $_['error_secret']				 	  = 'Secret Required!';
 $_['error_api_hash']			 	  = 'API Hash Required!';

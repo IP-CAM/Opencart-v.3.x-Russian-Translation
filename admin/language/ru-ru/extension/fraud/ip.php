@@ -24,4 +24,4 @@ $_['entry_order_status'] = 'Order Status';
 $_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';
+$_['error_permission']   = 'Внимание: You do not have permission to modify Anti-Fraud IP!';

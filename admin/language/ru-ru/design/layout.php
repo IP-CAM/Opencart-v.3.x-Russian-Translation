@@ -27,10 +27,10 @@ $_['entry_route']         = 'Route';
 $_['entry_module']        = 'Module';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify layouts!';
+$_['error_permission']    = 'Внимание: You do not have permission to modify layouts!';
 $_['error_name']          = 'Layout Name must be between 3 and 64 characters!';
-$_['error_default']       = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']      = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information']   = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['error_default']       = 'Внимание: This layout cannot be deleted as it is currently assigned as the default store layout!';
+$_['error_store']         = 'Внимание: This layout cannot be deleted as it is currently assigned to %s stores!';
+$_['error_product']       = 'Внимание: This layout cannot be deleted as it is currently assigned to %s products!';
+$_['error_category']      = 'Внимание: This layout cannot be deleted as it is currently assigned to %s categories!';
+$_['error_information']   = 'Внимание: This layout cannot be deleted as it is currently assigned to %s information pages!';

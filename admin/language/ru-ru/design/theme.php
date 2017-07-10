@@ -19,5 +19,5 @@ $_['column_date_added'] = 'Date Added';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify the theme editor!';
-$_['error_twig']        = 'Warning: You can only save .twig files!';
+$_['error_permission']  = 'Внимание: You do not have permission to modify the theme editor!';
+$_['error_twig']        = 'Внимание: You can only save .twig files!';

@@ -36,7 +36,7 @@ $_['column_sort_order']     = 'Sort Order';
 $_['column_action']         = 'Action';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify recurring profiles!';
+$_['error_warning']         = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']      = 'Внимание: You do not have permission to modify recurring profiles!';
 $_['error_name']            = 'Profile Name must be greater than 3 and less than 255 characters!';
-$_['error_product']         = 'Warning: This recurring profile cannot be deleted as it is currently assigned to %s products!';
+$_['error_product']         = 'Внимание: This recurring profile cannot be deleted as it is currently assigned to %s products!';

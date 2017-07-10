@@ -79,7 +79,7 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']            = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_permission']      = 'Внимание: You do not have permission to modify United States Postal Service!';
 $_['error_user_id']         = 'User ID Required!';
 $_['error_postcode']        = 'Zip Code Required!';
 $_['error_width']           = 'Width Required!';

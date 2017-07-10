@@ -11,6 +11,6 @@ $_['entry_username']   = 'Username';
 $_['entry_secret']     = 'Secret';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify marketplace API!';
+$_['error_permission'] = 'Внимание: You do not have permission to modify marketplace API!';
 $_['error_username']   = 'Username required!';
 $_['error_secret']     = 'Secret required!';

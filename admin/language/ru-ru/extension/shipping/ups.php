@@ -105,7 +105,7 @@ $_['help_dimension']               = 'This is assumed to be your average packing
 $_['help_debug']                   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$_['error_permission']             = 'Внимание: You do not have permission to modify UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';

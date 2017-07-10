@@ -38,8 +38,8 @@ $_['help_top']               = 'Display in the top menu bar. Only works for the 
 $_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify categories!';
+$_['error_warning']          = 'Внимание: Please check the form carefully for errors!';
+$_['error_permission']       = 'Внимание: You do not have permission to modify categories!';
 $_['error_name']             = 'Category Name must be between 1 and 255 characters!';
 $_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
 $_['error_keyword']          = 'SEO URL already in use!';

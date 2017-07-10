@@ -21,4 +21,4 @@ $_['column_value']	        = 'Value';
 $_['column_action']         = 'Action';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify statistics!';
+$_['error_permission']      = 'Внимание: You do not have permission to modify statistics!';
