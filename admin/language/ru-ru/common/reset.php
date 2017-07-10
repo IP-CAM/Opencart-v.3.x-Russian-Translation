@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']  = 'Reset your password';
+$_['heading_title']  = 'Сбросить пароль';
 
 // Text
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Успех: Your password has been successfully updated.';
+$_['text_password']  = 'Введите новый пароль, который Вы хотите использовать.';
+$_['text_success']   = 'Успех: Ваш пароль был обновлён.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_password'] = 'Пароль';
+$_['entry_confirm']  = 'Подтвердить';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+$_['error_password'] = 'Пароль должен быть длинной от 4 до 20 символов!';
+$_['error_confirm']  = 'Поля паролей не совпадают!';
