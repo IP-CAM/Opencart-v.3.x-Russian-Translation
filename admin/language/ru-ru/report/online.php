@@ -15,13 +15,13 @@ $_['column_customer']   = 'Customer';
 $_['column_url']        = 'Last Page Visited';
 $_['column_referer']    = 'Referer';
 $_['column_date_added'] = 'Last Click';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_ip']          = 'IP';
 $_['entry_customer']    = 'Customer';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify customers online report!';

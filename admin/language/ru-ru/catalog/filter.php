@@ -12,13 +12,13 @@ $_['text_value']        = 'Filter Values';
 
 // Column
 $_['column_group']      = 'Filter Group';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Порядок сортировки';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_group']       = 'Filter Group Name';
 $_['entry_name']        = 'Filter Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify filters!';

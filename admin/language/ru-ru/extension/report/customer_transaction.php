@@ -13,14 +13,14 @@ $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
 $_['column_status']         = 'Status';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Действие';
 
 // Entry
 $_['entry_date_start']      = 'Date Start';
 $_['entry_date_end']        = 'Date End';
 $_['entry_customer']        = 'Customer';
 $_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify customer credit report!';

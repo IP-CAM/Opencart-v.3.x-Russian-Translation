@@ -35,12 +35,12 @@ $_['column_customer_group']     = 'Customer Group';
 $_['column_status']             = 'Status';
 $_['column_date_added']         = 'Date Added';
 $_['column_comment']            = 'Comment';
-$_['column_description']        = 'Description';
+$_['column_description']        = 'Описание';
 $_['column_amount']             = 'Amount';
 $_['column_points']             = 'Points';
 $_['column_ip']                 = 'IP';
 $_['column_total']              = 'Total Accounts';
-$_['column_action']             = 'Action';
+$_['column_action']             = 'Действие';
 
 // Entry
 $_['entry_customer_group']      = 'Customer Group';
@@ -76,7 +76,7 @@ $_['entry_bank_swift_code']     = 'SWIFT Code';
 $_['entry_bank_account_name']   = 'Account Name';
 $_['entry_bank_account_number'] = 'Account Number';
 $_['entry_comment']             = 'Comment';
-$_['entry_description']         = 'Description';
+$_['entry_description']         = 'Описание';
 $_['entry_amount']              = 'Amount';
 $_['entry_points']              = 'Points';
 $_['entry_name']                = 'Customer Name';

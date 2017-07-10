@@ -14,7 +14,7 @@ $_['text_deposit_amount']              = 'Deposit amount';
 
 // Entry
 $_['entry_order_status']               = 'Order status when approved';
-$_['entry_sort_order']                 = 'Sort order';
+$_['entry_sort_order']                 = 'Порядок сортировки';
 $_['entry_status']                     = 'Status';
 $_['entry_api_key']                    = 'API-key';
 $_['entry_title']                      = 'Title';

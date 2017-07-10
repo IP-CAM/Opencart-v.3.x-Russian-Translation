@@ -12,7 +12,7 @@ $_['entry_cost']       = 'Cost';
 $_['entry_tax_class']  = 'Tax Class';
 $_['entry_geo_zone']   = 'Geo Zone';
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify flat rate shipping!';

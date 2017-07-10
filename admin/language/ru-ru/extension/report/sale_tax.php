@@ -25,7 +25,7 @@ $_['entry_date_end']    = 'Date End';
 $_['entry_group']       = 'Group By';
 $_['entry_status']      = 'Order Status';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify tax report!';

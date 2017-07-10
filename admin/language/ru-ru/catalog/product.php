@@ -24,11 +24,11 @@ $_['column_image']           = 'Image';
 $_['column_price']           = 'Price';
 $_['column_quantity']        = 'Quantity';
 $_['column_status']          = 'Status';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Product Name';
-$_['entry_description']      = 'Description';
+$_['entry_description']      = 'Описание';
 $_['entry_meta_title']       = 'Meta Tag Title';
 $_['entry_meta_keyword']     = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
@@ -73,7 +73,7 @@ $_['entry_option']           = 'Option';
 $_['entry_option_value']     = 'Option Value';
 $_['entry_required']         = 'Required';
 $_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
+$_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_category']         = 'Categories';
 $_['entry_filter']           = 'Filters';
 $_['entry_download']         = 'Downloads';

@@ -11,8 +11,8 @@ $_['text_recommended']  = 'Payments - Recommended Solutions';
 // Column
 $_['column_name']       = 'Payment Method';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Порядок сортировки';
+$_['column_action']     = 'Действие';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify payments!';

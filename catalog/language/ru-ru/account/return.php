@@ -34,7 +34,7 @@ $_['column_price']       = 'Price';
 $_['column_opened']      = 'Opened';
 $_['column_comment']     = 'Comment';
 $_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_order_id']     = 'Order ID';

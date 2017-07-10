@@ -18,7 +18,7 @@ $_['entry_total']      = 'Order Total';
 $_['entry_fee']        = 'Invoice Fee';
 $_['entry_tax_class']  = 'Tax Class';
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify Klarna fee total!';

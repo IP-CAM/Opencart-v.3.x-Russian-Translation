@@ -12,7 +12,7 @@ $_['text_edit']              = 'Edit Zone';
 $_['column_name']            = 'Zone Name';
 $_['column_code']            = 'Zone Code';
 $_['column_country']         = 'Country';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Zone Name';

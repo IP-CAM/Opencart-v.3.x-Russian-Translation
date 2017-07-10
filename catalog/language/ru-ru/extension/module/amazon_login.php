@@ -27,7 +27,7 @@ $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
 $_['entry_position'] = 'Position';
 $_['entry_status'] = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортировки';
 
 //Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify module Login with Amazon!';

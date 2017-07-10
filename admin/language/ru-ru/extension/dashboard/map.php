@@ -11,7 +11,7 @@ $_['text_sale']        = 'Sales';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортировки';
 $_['entry_width']      = 'Width';
 
 // Error

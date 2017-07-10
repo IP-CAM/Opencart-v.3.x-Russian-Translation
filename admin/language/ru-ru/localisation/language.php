@@ -11,15 +11,15 @@ $_['text_edit']         = 'Edit Language';
 // Column
 $_['column_name']       = 'Language Name';
 $_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Порядок сортировки';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Language Name';
 $_['entry_code']        = 'Code';
 $_['entry_locale']      = 'Locale';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
 $_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';

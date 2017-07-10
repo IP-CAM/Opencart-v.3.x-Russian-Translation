@@ -78,7 +78,7 @@ $_['column_first_payment']          = 'First Payment Due';
 $_['column_last_payment']           = 'Last Payment Due';
 $_['column_status']                 = 'Status';
 $_['column_date_added']             = 'Date Added';
-$_['column_action']                 = 'Action';
+$_['column_action']                 = 'Действие';
 
 // Entry
 $_['entry_membership_id']           = 'Lay-Buys Membership ID';
@@ -98,7 +98,7 @@ $_['entry_gateway_url']             = 'Gateway URL';
 $_['entry_api_url']                 = 'API URL';
 $_['entry_geo_zone']                = 'Geo Zone';
 $_['entry_status']                  = 'Status';
-$_['entry_sort_order']              = 'Sort Order';
+$_['entry_sort_order']              = 'Порядок сортировки';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
 $_['entry_order_id']                = 'Order ID';

@@ -3,21 +3,21 @@
 $_['heading_title']    = 'Менеджер изображений';
 
 // Text
-$_['text_uploaded']    = 'Успех: Your file has been uploaded!';
-$_['text_directory']   = 'Успех: Directory created!';
-$_['text_delete']      = 'Успех: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'Успех: Ваш файл был загружен!';
+$_['text_directory']   = 'Успех: Папка создана!';
+$_['text_delete']      = 'Успех: Ваш файл или папка была удалена!';
 
 // Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
+$_['entry_search']     = 'Поиск..';
+$_['entry_folder']     = 'Имя папки';
 
 // Error
-$_['error_permission'] = 'Внимание: Permission Denied!';
-$_['error_filename']   = 'Внимание: Filename must be between 3 and 255!';
-$_['error_folder']     = 'Внимание: Folder name must be between 3 and 255!';
-$_['error_exists']     = 'Внимание: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Внимание: Directory does not exist!';
-$_['error_filesize']   = 'Внимание: Incorrect file size!';
-$_['error_filetype']   = 'Внимание: Incorrect file type!';
-$_['error_upload']     = 'Внимание: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Внимание: You can not delete this directory!';
+$_['error_permission'] = 'Внимание: В доступе отказано!';
+$_['error_filename']   = 'Внимание: Имя файла должно быть длинной от 3 до 255 символов!';
+$_['error_folder']     = 'Внимание: Имя папки должно быть длинной от 3 до 255 символов!';
+$_['error_exists']     = 'Внимание: Файл или папка с таким именем уже существует!';
+$_['error_directory']  = 'Внимание: Такая папка не существует!';
+$_['error_filesize']   = 'Внимание: Недопустимый размер файла!';
+$_['error_filetype']   = 'Внимание: Недопустимый тип файла!';
+$_['error_upload']     = 'Внимание: Файл не был загружен по неизвестным причинам!';
+$_['error_delete']     = 'Внимание: Вы не можете удалить эту папку!';

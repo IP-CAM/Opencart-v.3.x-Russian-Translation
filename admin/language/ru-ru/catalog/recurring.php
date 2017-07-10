@@ -28,12 +28,12 @@ $_['entry_trial_status']    = 'Trial status';
 $_['entry_trial_cycle']     = 'Trial cycle';
 $_['entry_trial_frequency'] = 'Trial frequency';
 $_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Column
 $_['column_name']           = 'Name';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_sort_order']     = 'Порядок сортировки';
+$_['column_action']         = 'Действие';
 
 // Error
 $_['error_warning']         = 'Внимание: Please check the form carefully for errors!';

@@ -13,12 +13,12 @@ $_['column_customer']   = 'Customer';
 $_['column_status']     = 'Status';
 $_['column_total']      = 'Total';
 $_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 
 // Entry
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 $_['entry_width']       = 'Width';
 
 // Error

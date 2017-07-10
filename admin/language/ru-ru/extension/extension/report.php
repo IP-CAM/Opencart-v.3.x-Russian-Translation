@@ -9,8 +9,8 @@ $_['text_list']         = 'Reports List';
 // Column
 $_['column_name']       = 'Report Name';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Порядок сортировки';
+$_['column_action']     = 'Действие';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify reports!';

@@ -14,15 +14,15 @@ $_['text_keyword']      = 'Do not use spaces, instead replace spaces with - and 
 
 // Column
 $_['column_name']       = 'Manufacturer Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Порядок сортировки';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Manufacturer Name';
 $_['entry_store']       = 'Stores';
 $_['entry_keyword']     = 'Keyword';
 $_['entry_image']       = 'Image';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 $_['entry_type']        = 'Type';
 
 // Error

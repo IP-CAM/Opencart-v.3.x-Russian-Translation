@@ -29,8 +29,8 @@ $_['text_value']           = 'Custom Field Values';
 $_['column_name']          = 'Custom Field Name';
 $_['column_location']      = 'Location';
 $_['column_type']          = 'Type';
-$_['column_sort_order']    = 'Sort Order';
-$_['column_action']        = 'Action';
+$_['column_sort_order']    = 'Порядок сортировки';
+$_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_name']           = 'Custom Field Name';
@@ -42,7 +42,7 @@ $_['entry_custom_value']   = 'Custom Field Value Name';
 $_['entry_customer_group'] = 'Customer Group';
 $_['entry_required']       = 'Required';
 $_['entry_status']         = 'Status';
-$_['entry_sort_order']     = 'Sort Order';
+$_['entry_sort_order']     = 'Порядок сортировки';
 
 // Help
 $_['help_regex']           = 'Use regex. E.g: /[a-zA-Z0-9_-]/';

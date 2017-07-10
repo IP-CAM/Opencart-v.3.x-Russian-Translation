@@ -15,7 +15,7 @@ $_['column_query']     = 'Query';
 $_['column_keyword']   = 'Keyword';
 $_['column_store']     = 'Store';
 $_['column_language']  = 'Language';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_query']      = 'Query';

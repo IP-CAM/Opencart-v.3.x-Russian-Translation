@@ -24,7 +24,7 @@ $_['entry_username']			= 'eWAY API Key';
 $_['entry_password']			= 'eWAY password';
 $_['entry_payment_type']		= 'Payment Type';
 $_['entry_geo_zone']			= 'Geo Zone';
-$_['entry_sort_order']			= 'Sort order';
+$_['entry_sort_order']			= 'Порядок сортировки';
 $_['entry_transaction_method']	= 'Transaction Method';
 
 // Error

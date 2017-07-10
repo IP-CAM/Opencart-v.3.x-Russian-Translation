@@ -45,13 +45,13 @@ $_['text_secure']        = 'Do not give your PIN to any one including developers
 $_['text_name']          = 'Download Name';
 $_['text_progress']      = 'Progress';
 $_['text_available']     = 'Available Installs';
-$_['text_action']        = 'Action';
+$_['text_action']        = 'Действие';
 
 // Entry
 $_['entry_pin']          = 'PIN';
 
 // Tab
-$_['tab_description']    = 'Description';
+$_['tab_description']    = 'Описание';
 $_['tab_documentation']  = 'Documentation';
 $_['tab_download']       = 'Download';
 $_['tab_comment']        = 'Comment';

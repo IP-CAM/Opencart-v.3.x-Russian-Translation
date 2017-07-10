@@ -40,7 +40,7 @@ $_['entry_shipping_fee']    = 'Shipping Fee';
 $_['entry_order_status']    = 'Order Status';
 $_['entry_status']          = 'Status';
 $_['entry_logging']         = 'Debug Logging';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help
 $_['help_email_address']    = 'Please enter the email address for the owner of this business.';

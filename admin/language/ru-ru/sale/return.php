@@ -25,7 +25,7 @@ $_['column_date_added']    = 'Date Added';
 $_['column_date_modified'] = 'Date Modified';
 $_['column_comment']       = 'Comment';
 $_['column_notify']        = 'Customer Notified';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_customer']       = 'Customer';

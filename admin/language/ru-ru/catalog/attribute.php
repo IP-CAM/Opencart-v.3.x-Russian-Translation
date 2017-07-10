@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributes';
+$_['heading_title']          = 'Аттрибуты';
 
 // Text
-$_['text_success']           = 'Успех: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
+$_['text_success']           = 'Успех: Аттрибуты были изменены!';
+$_['text_list']              = 'Список аттрибутов';
+$_['text_add']               = 'Добавить аттрибут';
+$_['text_edit']              = 'Редактировать аттрибут';
 
 // Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Название аттрибута';
+$_['column_attribute_group'] = 'Группа аттрибутов';
+$_['column_sort_order']      = 'Порядок сортировки';
+$_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Attribute Name';
-$_['entry_attribute_group']  = 'Attribute Group';
-$_['entry_sort_order']       = 'Sort Order';
+$_['entry_name']             = 'Название аттрибута';
+$_['entry_attribute_group']  = 'Группа аттрибутов';
+$_['entry_sort_order']       = 'Порядок сортировки';
 
 // Error
-$_['error_permission']       = 'Внимание: You do not have permission to modify attributes!';
-$_['error_attribute_group']  = 'Attribute Group Required!';
-$_['error_name']             = 'Attribute Name must be between 1 and 64 characters!';
-$_['error_product']          = 'Внимание: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']       = 'Внимание: У Вас нет разрешения редактировать аттрибуты!';
+$_['error_attribute_group']  = 'Требуется группа аттрибутов!';
+$_['error_name']             = 'Название аттрибута должна быть длинной от 1 до 64 символов!';
+$_['error_product']          = 'Внимание: Этот аттрибут не может быть удален, так как он назначен на товары %s !';

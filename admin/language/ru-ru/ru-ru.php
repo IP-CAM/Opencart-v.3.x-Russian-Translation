@@ -109,7 +109,7 @@ $_['tab_attribute']                 = 'Attribute';
 $_['tab_customer']                  = 'Customer Details';
 $_['tab_comment']                   = 'Comment';
 $_['tab_data']                      = 'Data';
-$_['tab_description']               = 'Description';
+$_['tab_description']               = 'Описание';
 $_['tab_design']                    = 'Design';
 $_['tab_discount']                  = 'Discount';
 $_['tab_documentation']             = 'Documentation';
@@ -141,7 +141,7 @@ $_['tab_marketing']                 = 'Marketing';
 $_['tab_online']                    = 'People Online';
 $_['tab_activity']                  = 'Recent Activity';
 $_['tab_recurring']                 = 'Recurring';
-$_['tab_action']                    = 'Action';
+$_['tab_action']                    = 'Действие';
 $_['tab_google']                    = 'Google';
 
 // Error

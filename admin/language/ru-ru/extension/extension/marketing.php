@@ -9,7 +9,7 @@ $_['text_list']        = 'Analytics List';
 // Column
 $_['column_name']      = 'Marketing Name';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify marketing!';

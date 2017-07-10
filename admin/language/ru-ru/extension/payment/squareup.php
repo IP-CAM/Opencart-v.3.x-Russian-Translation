@@ -135,7 +135,7 @@ $_['squareup_status_comment_failed']                    = 'The card transaction 
 // Entry
 $_['entry_total']                                       = 'Total';
 $_['entry_geo_zone']                                    = 'Geo Zone';
-$_['entry_sort_order']                                  = 'Sort Order';
+$_['entry_sort_order']                                  = 'Порядок сортировки';
 $_['entry_merchant']                                    = 'Merchant ID';
 $_['entry_transaction_id']                              = 'Transaction ID';
 $_['entry_order_id']                                    = 'Order ID';
@@ -186,7 +186,7 @@ $_['column_type']                                       = 'Type';
 $_['column_amount']                                     = 'Amount';
 $_['column_ip']                                         = 'IP';
 $_['column_date_created']                               = 'Date Created';
-$_['column_action']                                     = 'Action';
+$_['column_action']                                     = 'Действие';
 $_['column_refunds']                                    = 'Refunds';
 $_['column_reason']                                     = 'Reason';
 $_['column_fee']                                        = 'Processing Fee';

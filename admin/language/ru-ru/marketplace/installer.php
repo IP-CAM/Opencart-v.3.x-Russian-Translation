@@ -12,7 +12,7 @@ $_['text_install']      = 'Installing';
 // Column
 $_['column_filename']   = 'Filename';
 $_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_upload']      = 'Upload File';

@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']          = 'Categories';
+$_['heading_title']          = 'Категории';
 
 // Text
-$_['text_success']           = 'Успех: You have modified categories!';
-$_['text_list']              = 'Category List';
-$_['text_add']               = 'Add Category';
-$_['text_edit']              = 'Edit Category';
-$_['text_default']           = 'Default';
-$_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['text_success']           = 'Успех: Вы успешно отредактировали категории!';
+$_['text_list']              = 'Список категорий';
+$_['text_add']               = 'Добавить категорию';
+$_['text_edit']              = 'Редактировать категорию';
+$_['text_default']           = 'Умолчание';
+$_['text_keyword']           = 'Не используйте пробелы. Вместо этого используйте знаки минус (-) и удостоверьтесь в том, что SEO URL уникальны глобально.';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Название категории';
+$_['column_sort_order']      = 'Порядок сортировки';
+$_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Category Name';
-$_['entry_description']      = 'Description';
+$_['entry_name']             = 'Название категории';
+$_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_keyword']     = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
+$_['entry_store']            = 'Магазины';
+$_['entry_keyword']          = 'Ключевое слово';
 $_['entry_parent']           = 'Parent';
-$_['entry_filter']           = 'Filters';
-$_['entry_image']            = 'Image';
+$_['entry_filter']           = 'Фильтры';
+$_['entry_image']            = 'Изображение';
 $_['entry_top']              = 'Top';
-$_['entry_column']           = 'Columns';
-$_['entry_sort_order']       = 'Sort Order';
+$_['entry_column']           = 'Колонок';
+$_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_status']           = 'Status';
 $_['entry_layout']           = 'Layout Override';
 

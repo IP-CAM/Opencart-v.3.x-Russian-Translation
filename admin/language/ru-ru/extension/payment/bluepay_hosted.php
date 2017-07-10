@@ -43,7 +43,7 @@ $_['entry_total']			 = 'Total';
 $_['entry_order_status']	 = 'Order Status';
 $_['entry_geo_zone']		 = 'Geo Zone';
 $_['entry_status']			 = 'Status';
-$_['entry_sort_order']		 = 'Sort Order';
+$_['entry_sort_order']		 = 'Порядок сортировки';
 $_['entry_debug']			 = 'Debug logging';
 
 // Help

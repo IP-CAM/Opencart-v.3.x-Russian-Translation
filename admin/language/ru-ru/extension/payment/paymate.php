@@ -16,7 +16,7 @@ $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_sort_order']	 = 'Порядок сортировки';
 
 // Help
 $_['help_password']		 = 'Just use some random password. This will be used to make sure the payment information is not interfered with after being sent to the payment gateway.';
