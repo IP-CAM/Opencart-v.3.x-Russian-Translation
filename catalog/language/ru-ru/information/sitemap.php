@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'Карта сайта';
 
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_special']     = 'Спец. предложения';
+$_['text_account']     = 'Мой аккаунт';
+$_['text_edit']        = 'Информация по аккаунту';
+$_['text_password']    = 'Пароль';
+$_['text_address']     = 'Адресная книжка';
+$_['text_history']     = 'История заказов';
+$_['text_download']    = 'Загрузкт';
+$_['text_cart']        = 'Корзинка';
+$_['text_checkout']    = 'К оплате';
+$_['text_search']      = 'Поиск';
+$_['text_information'] = 'Информация';
+$_['text_contact']     = 'Связаться с нами';

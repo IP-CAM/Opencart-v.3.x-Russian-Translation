@@ -18,9 +18,9 @@ $_['column_action']          = 'Действие';
 // Entry
 $_['entry_name']             = 'Название категории';
 $_['entry_description']      = 'Описание';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
+$_['entry_meta_title'] 	     = 'Meta Tag заголовок';
+$_['entry_meta_keyword']     = 'Meta Tag ключевые слова';
+$_['entry_meta_description'] = 'Meta Tag описание';
 $_['entry_store']            = 'Магазины';
 $_['entry_keyword']          = 'Ключевое слово';
 $_['entry_parent']           = 'Parent';
@@ -34,8 +34,8 @@ $_['entry_layout']           = 'Layout Override';
 
 // Help
 $_['help_filter']            = '(Автозаполнение)';
-$_['help_top']               = 'Отображать в верхнем меню. Работает только для категорий, родственных к верху (top).';
-$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
+$_['help_top']               = 'Отображать в верхнем меню. Работает только с верхними (top) родительскими категориями.';
+$_['help_column']            = 'Количество колонок для последних трёх категорий. Работает только с верхними (top) родительскими категориями.';
 
 // Error
 $_['error_warning']          = 'Внимание: Пожалуйста, тщательно проверьте правильно ли заполнена форма!';
