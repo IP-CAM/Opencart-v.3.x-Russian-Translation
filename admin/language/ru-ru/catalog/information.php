@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'Информация';
 
 // Text
 $_['text_success']           = 'Успех: You have modified information!';
 $_['text_list']              = 'Information List';
 $_['text_add']               = 'Add Information';
 $_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
+$_['text_default']           = 'По умолчанию';
 $_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
 
 // Column
@@ -21,15 +21,15 @@ $_['entry_description']      = 'Описание';
 $_['entry_meta_title']       = 'Meta Tag Title';
 $_['entry_meta_keyword']     = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
+$_['entry_store']            = 'Магазины';
+$_['entry_keyword']          = 'Ключевое слово';
 $_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
+$_['entry_status']           = 'Статус';
 $_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_layout']           = 'Layout Override';
 
 // Help
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_bottom']            = 'Отображать в "подвале" сайта.';
 
 // Error
 $_['error_warning']          = 'Внимание: Please check the form carefully for errors!';

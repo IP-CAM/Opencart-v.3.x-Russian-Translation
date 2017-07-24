@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']     = 'Filters';
+$_['heading_title']     = 'Фильтры';
 
 // Text
 $_['text_success']      = 'Успех: You have modified filters!';
-$_['text_list']         = 'Filter List';
-$_['text_add']          = 'Add Filter';
-$_['text_edit']         = 'Edit Filter';
-$_['text_group']        = 'Filter Group';
+$_['text_list']         = 'Список фильтров';
+$_['text_add']          = 'Добавить фильтр';
+$_['text_edit']         = 'Редактировать фильтр';
+$_['text_group']        = 'Группа фильтров';
 $_['text_value']        = 'Filter Values';
 
 // Column

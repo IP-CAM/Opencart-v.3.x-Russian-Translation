@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Manufacturers';
+$_['heading_title']     = 'Производитель';
 
 // Text
 $_['text_success']      = 'Успех: You have modified manufacturers!';
