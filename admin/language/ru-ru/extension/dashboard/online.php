@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']    = 'People Online';
+$_['heading_title']    = 'Пользователей в сети';
 
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Успех: You have modified dashboard online!';
 $_['text_edit']        = 'Edit Dashboard Online';
-$_['text_view']        = 'View more...';
+$_['text_view']        = 'Показать больше...';
 
 // Entry
 $_['entry_status']     = 'Status';
