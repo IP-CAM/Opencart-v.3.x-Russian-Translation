@@ -14,7 +14,7 @@ $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
 $_['column_status']         = 'Status';
 $_['column_orders']         = 'No. Orders';
-$_['column_products']       = 'No. Products';
+$_['column_products']       = 'No. Товары';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Действие';
 

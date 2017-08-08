@@ -9,7 +9,7 @@ $_['text_edit']        = 'Edit Carousel Module';
 
 // Entry
 $_['entry_name']       = 'Module Name';
-$_['entry_banner']     = 'Banner';
+$_['entry_banner']     = 'Баннер';
 $_['entry_width']      = 'Width';
 $_['entry_height']     = 'Height';
 $_['entry_status']     = 'Status';

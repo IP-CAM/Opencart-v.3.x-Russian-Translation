@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Banner';
+$_['heading_title']    = 'Баннер';
 
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Успех: You have modified banner module!';
-$_['text_edit']        = 'Edit Banner Module';
+$_['text_edit']        = 'Edit Баннер Module';
 
 // Entry
 $_['entry_name']       = 'Module Name';
-$_['entry_banner']     = 'Banner';
+$_['entry_banner']     = 'Баннер';
 $_['entry_dimension']  = 'Dimension (W x H) and Resize Type';
 $_['entry_width']      = 'Width';
 $_['entry_height']     = 'Height';

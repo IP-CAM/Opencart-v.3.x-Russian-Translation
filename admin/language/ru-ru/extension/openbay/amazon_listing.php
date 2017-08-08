@@ -22,7 +22,7 @@ $_['help_restock_date'] 		  = 'This is the date you will be able to ship any bac
 $_['help_sale_price'] 			  = 'Sale Price must have a start and end date';
 
 // Text
-$_['text_products_sent'] 		  = 'Products were sent for processing';
+$_['text_products_sent'] 		  = 'Товары were sent for processing';
 $_['button_view_on_amazon'] 	  = 'View on Amazon';
 $_['text_list'] 				  = 'List on Amazon';
 $_['text_new'] 					  = 'New';

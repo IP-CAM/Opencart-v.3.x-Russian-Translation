@@ -57,7 +57,7 @@ $_['text_reward_added']          = 'Успех: Reward points added!';
 $_['text_reward_removed']        = 'Успех: Reward points removed!';
 $_['text_commission_added']      = 'Успех: Commission added!';
 $_['text_commission_removed']    = 'Успех: Commission removed!';
-$_['text_restock']               = 'Успех: Products have been restocked!';
+$_['text_restock']               = 'Успех: Товары have been restocked!';
 $_['text_upload']                = 'Your file was successfully uploaded!';
 $_['text_picklist']              = 'Dispatch Note';
 

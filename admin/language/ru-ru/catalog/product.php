@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Products';
+$_['heading_title']          = 'Товары';
 
 // Text
 $_['text_success']           = 'Успех: You have modified products!';
@@ -77,7 +77,7 @@ $_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_category']         = 'Categories';
 $_['entry_filter']           = 'Filters';
 $_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Related Products';
+$_['entry_related']          = 'Related Товары';
 $_['entry_tag']              = 'Product Tags';
 $_['entry_reward']           = 'Reward Points';
 $_['entry_layout']           = 'Layout Override';

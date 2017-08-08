@@ -4,7 +4,7 @@ $_['heading_title']						= 'Fulfillments';
 $_['text_openbay']						= 'OpenBay Pro';
 $_['text_fba']							= 'Fulfillment By Amazon';
 $_['heading_order_info']				= 'Order info';
-$_['heading_products']					= 'Products';
+$_['heading_products']					= 'Товары';
 
 // Entry
 $_['entry_seller_fulfillment_order_id'] = 'Seller fulfillment order ID';

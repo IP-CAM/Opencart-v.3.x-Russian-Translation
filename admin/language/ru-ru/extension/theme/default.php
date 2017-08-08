@@ -7,7 +7,7 @@ $_['text_extension']                   = 'Extensions';
 $_['text_success']                     = 'Успех: You have modified the default store theme!';
 $_['text_edit']                        = 'Edit Default Store Theme';
 $_['text_general']                     = 'General';
-$_['text_product']                     = 'Products';
+$_['text_product']                     = 'Товары';
 $_['text_image']                       = 'Images';
 
 // Entry
