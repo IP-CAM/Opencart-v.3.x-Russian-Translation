@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Account';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified account module!';
 $_['text_edit']        = 'Edit Account Module';
 

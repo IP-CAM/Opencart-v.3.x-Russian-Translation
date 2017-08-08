@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Information';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified information module!';
 $_['text_edit']        = 'Edit Information Module';
 

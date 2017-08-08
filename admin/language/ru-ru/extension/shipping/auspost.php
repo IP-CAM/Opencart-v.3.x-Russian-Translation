@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Australia Post';
 
 // Text
-$_['text_extension']     = 'Extensions';
+$_['text_extension']     = 'Расширения';
 $_['text_success']       = 'Успех: You have modified Australia Post shipping!';
 $_['text_edit']          = 'Edit Australia Post Shipping';
 

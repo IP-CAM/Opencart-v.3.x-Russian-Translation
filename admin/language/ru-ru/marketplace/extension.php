@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Extensions';
+$_['heading_title'] = 'Расширения';
 
 // Text
 $_['text_success']  = 'Успех: You have modified extensions!';

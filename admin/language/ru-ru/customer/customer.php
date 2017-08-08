@@ -39,7 +39,7 @@ $_['column_description']        = 'Описание';
 $_['column_amount']             = 'Amount';
 $_['column_points']             = 'Points';
 $_['column_ip']                 = 'IP';
-$_['column_total']              = 'Total Accounts';
+$_['column_total']              = 'Все аккаунты';
 $_['column_action']             = 'Действие';
 
 // Entry

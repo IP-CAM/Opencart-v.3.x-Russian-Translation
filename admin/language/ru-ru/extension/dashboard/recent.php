@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Latest Orders';
 
 // Text
-$_['text_extension']    = 'Extensions';
+$_['text_extension']    = 'Расширения';
 $_['text_success']      = 'Успех: You have modified dashboard recent orders!';
 $_['text_edit']         = 'Edit Dashboard Recent Orders';
 
@@ -11,7 +11,7 @@ $_['text_edit']         = 'Edit Dashboard Recent Orders';
 $_['column_order_id']   = 'Order ID';
 $_['column_customer']   = 'Customer';
 $_['column_status']     = 'Status';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'Всего';
 $_['column_date_added'] = 'Date Added';
 $_['column_action']     = 'Действие';
 

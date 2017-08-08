@@ -3,7 +3,7 @@
 $_['heading_title']	   = 'Klarna Checkout';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']	   = 'Успех: You have modified module Klarna Checkout!';
 
 //Entry

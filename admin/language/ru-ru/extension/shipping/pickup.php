@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Pickup From Store';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified pickup from store!';
 $_['text_edit']        = 'Edit Pickup From Store Shipping';
 

@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Parcelforce 48';
 
 // Text
-$_['text_extension']          = 'Extensions';
+$_['text_extension']          = 'Расширения';
 $_['text_success']            = 'Успех: You have modified Parcelforce 48 shipping!';
 $_['text_edit']               = 'Edit Parcelforce 48 Shipping';
 

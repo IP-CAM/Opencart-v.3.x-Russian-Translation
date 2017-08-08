@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Featured';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified featured module!';
 $_['text_edit']        = 'Edit Featured Module';
 

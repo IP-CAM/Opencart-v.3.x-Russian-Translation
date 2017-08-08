@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Flat Rate';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified flat rate shipping!';
 $_['text_edit']        = 'Edit Flat Rate Shipping';
 

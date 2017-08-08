@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sales Analytics';
+$_['heading_title']    = 'Анализ продаж';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified dashboard chart!';
 $_['text_edit']        = 'Edit Dashboard Chart';
 $_['text_order']       = 'Orders';

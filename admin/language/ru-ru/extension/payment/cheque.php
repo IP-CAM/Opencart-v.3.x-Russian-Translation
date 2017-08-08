@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Cheque / Money Order';
 
 // Text
-$_['text_extension']     = 'Extensions';
+$_['text_extension']     = 'Расширения';
 $_['text_success']       = 'Успех: You have modified cheque / money order account details!';
 $_['text_edit']          = 'Edit Cheque / Money Order';
 

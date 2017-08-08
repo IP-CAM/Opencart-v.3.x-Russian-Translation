@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Customer Reward Points Report';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Расширения';
 $_['text_success']          = 'Успех: You have modified customer reward points report!';
 $_['text_filter']           = 'Filter';
 

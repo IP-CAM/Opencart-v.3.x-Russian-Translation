@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Free Shipping';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified free shipping!';
 $_['text_edit']        = 'Edit Free Shipping';
 

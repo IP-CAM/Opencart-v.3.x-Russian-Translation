@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Tax Report';
 
 // Text
-$_['text_extension']    = 'Extensions';
+$_['text_extension']    = 'Расширения';
 $_['text_success']      = 'Успех: You have modified tax report!';
 $_['text_filter']       = 'Filter';
 $_['text_year']         = 'Years';

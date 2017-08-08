@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Free Checkout';
 
 // Text
-$_['text_extension']     = 'Extensions';
+$_['text_extension']     = 'Расширения';
 $_['text_success']       = 'Успех: You have modified Free Checkout payment module!';
 $_['text_edit']          = 'Edit Free Checkout';
 

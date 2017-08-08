@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Per Item';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Расширения';
 $_['text_success']     = 'Успех: You have modified shipping per item rates!';
 $_['text_edit']        = 'Edit Per Item Shipping';
 

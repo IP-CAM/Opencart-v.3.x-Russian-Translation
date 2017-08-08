@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'Payza';
 
 // Text
-$_['text_extension']	 = 'Extensions';
+$_['text_extension']	 = 'Расширения';
 $_['text_success']		 = 'Успех: You have modified Payza account details!';
 $_['text_edit']          = 'Edit Payza';
 

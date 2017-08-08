@@ -3,7 +3,7 @@
 $_['heading_title']                    = 'Default Store Theme';
 
 // Text
-$_['text_extension']                   = 'Extensions';
+$_['text_extension']                   = 'Расширения';
 $_['text_success']                     = 'Успех: You have modified the default store theme!';
 $_['text_edit']                        = 'Edit Default Store Theme';
 $_['text_general']                     = 'General';

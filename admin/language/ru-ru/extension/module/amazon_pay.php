@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Pay with Amazon';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Расширения';
 $_['text_success']          = 'Успех: You have modified module Pay with Amazon!';
 $_['text_content_top']      = 'Content Top';
 $_['text_content_bottom']   = 'Content Bottom';
