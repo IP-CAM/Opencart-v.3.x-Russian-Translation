@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']              = 'Orders';
+$_['heading_title']              = 'Заказы';
 
 // Text
 $_['text_success']               = 'Успех: You have modified orders!';
@@ -47,7 +47,7 @@ $_['text_ean']                   = 'EAN:';
 $_['text_jan']                   = 'JAN:';
 $_['text_isbn']                  = 'ISBN:';
 $_['text_mpn']                   = 'MPN:';
-$_['text_missing']               = 'Missing Orders';
+$_['text_missing']               = 'Missing Заказы';
 $_['text_default']               = 'Default';
 $_['text_product']               = 'Add Product(s)';
 $_['text_voucher']               = 'Add Voucher(s)';

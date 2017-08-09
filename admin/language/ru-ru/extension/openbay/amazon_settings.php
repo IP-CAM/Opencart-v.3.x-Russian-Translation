@@ -55,7 +55,7 @@ $_['entry_default_shipping']         = 'Default shipping';
 // Tabs
 $_['tab_settings']            		 = 'API details';
 $_['tab_listing']                  	 = 'Listings';
-$_['tab_orders']                   	 = 'Orders';
+$_['tab_orders']                   	 = 'Заказы';
 
 // Help
 $_['help_import_tax']          		 = 'Used if Amazon does not return tax information';

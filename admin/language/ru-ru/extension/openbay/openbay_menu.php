@@ -14,4 +14,4 @@ $_['text_openbay_report_price']        = 'Pricing report';
 $_['text_openbay_order_import']        = 'Order import';
 $_['text_openbay_fba']                 = 'Fulfillment by Amazon';
 $_['text_openbay_fulfillmentlist']     = 'Fulfillments';
-$_['text_openbay_orderlist']           = 'Orders';
+$_['text_openbay_orderlist']           = 'Заказы';

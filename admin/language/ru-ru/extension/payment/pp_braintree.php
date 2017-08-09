@@ -184,7 +184,7 @@ $_['error_environment']					= 'You cannot set your environment to %s when your c
 // Tab
 $_['tab_setting']					 	= 'Settings';
 $_['tab_currency']					 	= 'Currencies';
-$_['tab_order_status']				 	= 'Order Statuses (New Orders)';
+$_['tab_order_status']				 	= 'Order Statuses (New Заказы)';
 $_['tab_3ds']						 	= '3-D Secure';
 $_['tab_transaction']				 	= 'Transaction Search';
 $_['tab_vault']				 	 	 	= 'Vault';

@@ -10,7 +10,7 @@ $_['text_filter']      = 'Filter';
 // Column
 $_['column_name']      = 'Coupon Name';
 $_['column_code']      = 'Code';
-$_['column_orders']    = 'Orders';
+$_['column_orders']    = 'Заказы';
 $_['column_total']     = 'Total';
 $_['column_action']    = 'Действие';
 

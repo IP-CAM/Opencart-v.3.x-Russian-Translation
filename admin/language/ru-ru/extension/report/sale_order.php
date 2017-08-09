@@ -15,7 +15,7 @@ $_['text_all_status']   = 'All Statuses';
 // Column
 $_['column_date_start'] = 'Date Start';
 $_['column_date_end']   = 'Date End';
-$_['column_orders']     = 'No. Orders';
+$_['column_orders']     = 'No. Заказы';
 $_['column_products']   = 'No. Товары';
 $_['column_tax']        = 'Tax';
 $_['column_total']      = 'Total';

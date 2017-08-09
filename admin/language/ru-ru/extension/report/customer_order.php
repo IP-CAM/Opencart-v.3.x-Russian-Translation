@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Orders Report';
+$_['heading_title']         = 'Customer Заказы Report';
 
 // Text
 $_['text_extension']        = 'Расширения';
@@ -13,7 +13,7 @@ $_['column_customer']       = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
 $_['column_status']         = 'Status';
-$_['column_orders']         = 'No. Orders';
+$_['column_orders']         = 'No. Заказы';
 $_['column_products']       = 'No. Товары';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Действие';

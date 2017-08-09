@@ -12,7 +12,7 @@ $_['text_all_status']  = 'All Statuses';
 $_['column_campaign']  = 'Campaign Name';
 $_['column_code']      = 'Code';
 $_['column_clicks']    = 'Clicks';
-$_['column_orders']    = 'No. Orders';
+$_['column_orders']    = 'No. Заказы';
 $_['column_total']     = 'Total';
 
 // Entry

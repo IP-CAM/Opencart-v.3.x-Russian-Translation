@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Orders';
+$_['heading_title']                        = 'Recurring Заказы';
 
 // Text
 $_['text_success']                         = 'Успех: You have modified recurring profiles!';
