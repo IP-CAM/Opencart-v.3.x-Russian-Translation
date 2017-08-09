@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']             = 'Customers';
+$_['heading_title']             = 'Клиенты';
 
 // Text
 $_['text_success']              = 'Успех: You have modified customers!';

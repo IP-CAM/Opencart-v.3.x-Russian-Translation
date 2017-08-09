@@ -16,11 +16,11 @@ $_['column_action']     = 'Действие';
 // Entry
 $_['entry_name']        = 'Customer Group Name';
 $_['entry_description'] = 'Описание';
-$_['entry_approval']    = 'Approve New Customers';
+$_['entry_approval']    = 'Approve New Клиенты';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
-$_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
+$_['help_approval']     = 'Клиенты must be approved by an administrator before they can login.';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify customer groups!';
