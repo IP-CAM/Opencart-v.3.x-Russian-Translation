@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']                = 'Stores';
+$_['heading_title']                = 'Магазины';
 
 // Text
 $_['text_settings']                = 'Settings';
-$_['text_success']                 = 'Успех: You have modified Stores!';
+$_['text_success']                 = 'Успех: You have modified Магазины!';
 $_['text_list']                    = 'Store List';
 $_['text_add']                     = 'Add Store';
 $_['text_edit']                    = 'Edit Store';

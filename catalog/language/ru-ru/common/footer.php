@@ -14,5 +14,4 @@ $_['text_account']      = 'Мой аккаунт';
 $_['text_order']        = 'История заказов';
 $_['text_wishlist']     = 'Список пожеланий';
 $_['text_newsletter']   = 'Новостная рассылка';
-//$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-$_['text_powered']      = '%s &copy; %s';
+$_['text_powered']      = 'При поддержке <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';

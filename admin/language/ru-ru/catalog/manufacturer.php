@@ -19,7 +19,7 @@ $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Manufacturer Name';
-$_['entry_store']       = 'Stores';
+$_['entry_store']       = 'Магазины';
 $_['entry_keyword']     = 'Keyword';
 $_['entry_image']       = 'Image';
 $_['entry_sort_order']  = 'Порядок сортировки';
