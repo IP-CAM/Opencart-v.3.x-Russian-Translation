@@ -21,7 +21,7 @@ $_['text_customer']                        = 'Customer';
 $_['text_email']                           = 'Email';
 $_['text_date_added']                      = 'Date Added';
 $_['text_order_status']                    = 'Order Status';
-$_['text_type']                            = 'Type';
+$_['text_type']                            = 'Тип';
 $_['text_action']                          = 'Действие';
 $_['text_product']                         = 'Product';
 $_['text_quantity']                        = 'Quantity';
@@ -56,7 +56,7 @@ $_['column_customer']                       = 'Customer';
 $_['column_date_added']                     = 'Date Added';
 $_['column_status']                         = 'Статус';
 $_['column_amount']                         = 'Amount';
-$_['column_type']                           = 'Type';
+$_['column_type']                           = 'Тип';
 $_['column_action']                         = 'Действие';
 
 // Entry
@@ -66,7 +66,7 @@ $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
 $_['entry_date_added']                     = 'Date Added';
 $_['entry_status']                         = 'Статус';
-$_['entry_type']                           = 'Type';
+$_['entry_type']                           = 'Тип';
 $_['entry_action']                         = 'Действие';
 $_['entry_email']                          = 'Email';
 $_['entry_description']                    = 'Recurring Profile\'s description';

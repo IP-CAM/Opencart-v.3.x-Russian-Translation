@@ -23,7 +23,7 @@ $_['entry_store']       = 'Магазины';
 $_['entry_keyword']     = 'Keyword';
 $_['entry_image']       = 'Image';
 $_['entry_sort_order']  = 'Порядок сортировки';
-$_['entry_type']        = 'Type';
+$_['entry_type']        = 'Тип';
 
 // Error
 $_['error_permission']  = 'Внимание: You do not have permission to modify manufacturers!';

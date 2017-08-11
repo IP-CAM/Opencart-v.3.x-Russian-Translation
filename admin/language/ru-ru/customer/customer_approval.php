@@ -13,7 +13,7 @@ $_['text_affiliate']        = 'Affiliate';
 $_['column_name']           = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
-$_['column_type']           = 'Type';
+$_['column_type']           = 'Тип';
 $_['column_date_added']     = 'Date Added';
 $_['column_action']         = 'Действие';
 
@@ -21,7 +21,7 @@ $_['column_action']         = 'Действие';
 $_['entry_name']            = 'Customer Name';
 $_['entry_email']           = 'E-Mail';
 $_['entry_customer_group']  = 'Customer Group';
-$_['entry_type']            = 'Type';
+$_['entry_type']            = 'Тип';
 $_['entry_date_added']      = 'Date Added';
 
 // Error

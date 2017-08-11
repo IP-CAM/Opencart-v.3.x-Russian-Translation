@@ -13,7 +13,7 @@ $_['text_format']			   = 'Format';
 
 // Column
 $_['column_date']			   = 'Date';
-$_['column_type']			   = 'Type';
+$_['column_type']			   = 'Тип';
 $_['column_email']			   = 'Email';
 $_['column_name']			   = 'Name';
 $_['column_transid']		   = 'Transaction ID';
@@ -49,7 +49,7 @@ $_['entry_date_start']		   = 'Start';
 $_['entry_date_end']		   = 'End';
 $_['entry_date_to']			   = 'to';
 $_['entry_transaction']		   = 'Transaction';
-$_['entry_transaction_type']   = 'Type';
+$_['entry_transaction_type']   = 'Тип';
 $_['entry_transaction_status'] = 'Статус';
 $_['entry_email']			   = 'Email';
 $_['entry_email_buyer']		   = 'Buyer';

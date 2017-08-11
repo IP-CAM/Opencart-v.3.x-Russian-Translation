@@ -13,7 +13,7 @@ $_['text_amount']          = 'Fixed Amount';
 // Column
 $_['column_name']          = 'Tax Name';
 $_['column_rate']          = 'Tax Rate';
-$_['column_type']          = 'Type';
+$_['column_type']          = 'Тип';
 $_['column_geo_zone']      = 'Geo Zone';
 $_['column_date_added']    = 'Date Added';
 $_['column_date_modified'] = 'Date Modified';
@@ -22,7 +22,7 @@ $_['column_action']        = 'Действие';
 // Entry
 $_['entry_name']           = 'Tax Name';
 $_['entry_rate']           = 'Tax Rate';
-$_['entry_type']           = 'Type';
+$_['entry_type']           = 'Тип';
 $_['entry_customer_group'] = 'Customer Group';
 $_['entry_geo_zone']       = 'Geo Zone';
 

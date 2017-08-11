@@ -83,7 +83,7 @@ $_['column_total']                               = 'Всего';
 $_['column_currency']                            = 'Валюта';
 $_['column_settle_status']                       = 'Settle status';
 $_['column_status']                              = 'Статус';
-$_['column_type']                                = 'Type';
+$_['column_type']                                = 'Тип';
 $_['column_payment_type']                        = 'Payment type';
 
 $_['error_permission']                           = 'У вас нет доступа для редактирования этого модуля';

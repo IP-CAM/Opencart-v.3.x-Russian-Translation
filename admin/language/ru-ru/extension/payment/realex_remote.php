@@ -42,7 +42,7 @@ $_['text_realex_remote']			 = '<a target="_BLANK" href="http://www.realexpayment
 
 // Column
 $_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
+$_['text_column_type']				 = 'Тип';
 $_['text_column_date_added']		 = 'Created';
 
 // Entry

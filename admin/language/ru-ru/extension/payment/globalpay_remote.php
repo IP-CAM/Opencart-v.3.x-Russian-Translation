@@ -42,7 +42,7 @@ $_['text_globalpay_remote']			 = '<a target="_blank" href="https://resourcecentr
 
 // Column
 $_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
+$_['text_column_type']				 = 'Тип';
 $_['text_column_date_added']		 = 'Created';
 
 // Entry

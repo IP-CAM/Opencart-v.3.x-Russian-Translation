@@ -28,14 +28,14 @@ $_['text_value']           = 'Custom Field Values';
 // Column
 $_['column_name']          = 'Custom Field Name';
 $_['column_location']      = 'Location';
-$_['column_type']          = 'Type';
+$_['column_type']          = 'Тип';
 $_['column_sort_order']    = 'Порядок сортировки';
 $_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_name']           = 'Custom Field Name';
 $_['entry_location']       = 'Location';
-$_['entry_type']           = 'Type';
+$_['entry_type']           = 'Тип';
 $_['entry_value']          = 'Value';
 $_['entry_validation']     = 'Validation';
 $_['entry_custom_value']   = 'Custom Field Value Name';

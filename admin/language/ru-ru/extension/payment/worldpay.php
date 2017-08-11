@@ -67,7 +67,7 @@ $_['text_order_total']			         = 'Total authorised';
 $_['text_total_released']		         = 'Total released';
 $_['text_transactions']			         = 'Transactions';
 $_['text_column_amount']		         = 'Amount';
-$_['text_column_type']			         = 'Type';
+$_['text_column_type']			         = 'Тип';
 $_['text_column_date_added']	         = 'Added';
 
 $_['text_confirm_refund']		         = 'Are you sure you want to refund the payment?';

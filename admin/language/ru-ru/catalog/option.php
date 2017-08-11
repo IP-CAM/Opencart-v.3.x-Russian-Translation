@@ -28,7 +28,7 @@ $_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_name']         = 'Option Name';
-$_['entry_type']         = 'Type';
+$_['entry_type']         = 'Тип';
 $_['entry_option_value'] = 'Option Value Name';
 $_['entry_image']        = 'Image';
 $_['entry_sort_order']   = 'Порядок сортировки';

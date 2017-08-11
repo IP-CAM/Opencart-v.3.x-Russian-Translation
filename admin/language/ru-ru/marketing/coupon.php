@@ -27,7 +27,7 @@ $_['column_action']       = 'Действие';
 // Entry
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
-$_['entry_type']          = 'Type';
+$_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Discount';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
