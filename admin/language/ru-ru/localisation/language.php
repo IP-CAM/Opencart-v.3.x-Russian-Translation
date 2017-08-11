@@ -18,7 +18,7 @@ $_['column_action']     = 'Действие';
 $_['entry_name']        = 'Language Name';
 $_['entry_code']        = 'Code';
 $_['entry_locale']      = 'Locale';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'Статус';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help

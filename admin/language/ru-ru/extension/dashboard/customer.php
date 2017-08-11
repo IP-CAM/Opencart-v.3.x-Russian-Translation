@@ -9,7 +9,7 @@ $_['text_edit']        = 'Edit Dashboard Customer';
 $_['text_view']        = 'Показать больше...';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 $_['entry_width']      = 'Width';
 

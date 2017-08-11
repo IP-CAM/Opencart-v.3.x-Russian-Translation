@@ -40,7 +40,7 @@ $_['text_register_banner']           = 'Click here if you need to register for a
 $_['error_permission']         		 = 'You do not have access to this module';
 
 // Entry
-$_['entry_status']                 	 = 'Status';
+$_['entry_status']                 	 = 'Статус';
 $_['entry_token']                    = 'API token';
 $_['entry_encryption_key']           = 'Encryption key 1';
 $_['entry_encryption_iv']            = 'Encryption key 2';

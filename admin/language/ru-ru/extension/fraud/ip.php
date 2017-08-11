@@ -17,7 +17,7 @@ $_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_ip']           = 'IP';
-$_['entry_status']       = 'Status';
+$_['entry_status']       = 'Статус';
 $_['entry_order_status'] = 'Order Status';
 
 // Help

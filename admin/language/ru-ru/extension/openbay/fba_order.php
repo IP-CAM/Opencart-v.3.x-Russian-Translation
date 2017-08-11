@@ -14,7 +14,7 @@ $_['tab_history']        			= 'Request history';
 // Entry
 $_['entry_start_date']             	= 'Start date (format YYYY-MM-DD)';
 $_['entry_end_date']             	= 'End date (format YYYY-MM-DD)';
-$_['entry_status']             		= 'Status';
+$_['entry_status']             		= 'Статус';
 
 // Text
 $_['text_no_results'] 				= 'No orders found';
@@ -48,7 +48,7 @@ $_['text_order_list']				= 'Amazon order list';
 // Columns
 $_['column_order_id'] 				= 'Order ID';
 $_['column_created'] 				= 'Created';
-$_['column_status'] 				= 'Status';
+$_['column_status'] 				= 'Статус';
 $_['column_action'] 				= 'Действие';
 $_['column_sku'] 					= 'SKU';
 $_['column_product'] 				= 'Product';

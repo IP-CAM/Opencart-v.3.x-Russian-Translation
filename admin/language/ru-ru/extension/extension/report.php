@@ -8,7 +8,7 @@ $_['text_list']         = 'Reports List';
 
 // Column
 $_['column_name']       = 'Report Name';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Статус';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 

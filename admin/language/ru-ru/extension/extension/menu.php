@@ -8,7 +8,7 @@ $_['text_list']        = 'Menu List';
 
 // Column
 $_['column_name']      = 'Menu Name';
-$_['column_status']    = 'Status';
+$_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 
 // Error

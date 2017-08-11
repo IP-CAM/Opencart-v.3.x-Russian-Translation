@@ -47,7 +47,7 @@ $_['text_checking_details'] 		= 'Checking details';
 $_['text_register_banner']          = 'Click here if you need to register for an account';
 
 // Entry
-$_['entry_status']				  = 'Status';
+$_['entry_status']				  = 'Статус';
 $_['entry_token']				  = 'API token';
 $_['entry_secret']				  = 'Secret';
 $_['entry_encryption_key']        = 'Encryption key 1';

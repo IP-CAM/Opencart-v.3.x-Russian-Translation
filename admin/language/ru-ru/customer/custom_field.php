@@ -41,7 +41,7 @@ $_['entry_validation']     = 'Validation';
 $_['entry_custom_value']   = 'Custom Field Value Name';
 $_['entry_customer_group'] = 'Customer Group';
 $_['entry_required']       = 'Required';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'Статус';
 $_['entry_sort_order']     = 'Порядок сортировки';
 
 // Help

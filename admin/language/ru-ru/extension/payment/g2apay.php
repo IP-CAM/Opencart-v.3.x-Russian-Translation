@@ -28,7 +28,7 @@ $_['entry_secret_token']		 	  = 'Secret Token';
 $_['entry_ipn_url']				 	  = 'IPN URL:';
 $_['entry_total']				 	  = 'Total';
 $_['entry_geo_zone']			 	  = 'Geo Zone';
-$_['entry_status']				 	  = 'Status';
+$_['entry_status']				 	  = 'Статус';
 $_['entry_sort_order']			 	  = 'Порядок сортировки';
 $_['entry_debug']				 	  = 'Debug logging';
 $_['entry_order_status']			  = 'Order Status';
@@ -53,7 +53,7 @@ $_['error_permission']			 	  = 'Внимание: You do not have permission to 
 $_['error_email']				 	  = 'E-Mail Required!';
 $_['error_secret']				 	  = 'Secret Required!';
 $_['error_api_hash']			 	  = 'API Hash Required!';
-$_['entry_status']				 	  = 'Status';
+$_['entry_status']				 	  = 'Статус';
 
 //Button
 $_['btn_refund']				 	  = 'refund';

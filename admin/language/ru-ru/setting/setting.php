@@ -121,7 +121,7 @@ $_['entry_compression']              = 'Output Compression Level';
 $_['entry_error_display']            = 'Display Errors';
 $_['entry_error_log']                = 'Log Errors';
 $_['entry_error_filename']           = 'Error Log Filename';
-$_['entry_status']                   = 'Status';
+$_['entry_status']                   = 'Статус';
 
 // Help
 $_['help_geocode']                   = 'Please enter your store location geocode manually.';

@@ -8,7 +8,7 @@ $_['text_success']     = 'Успех: You have modified Pilibaba Checkout Button
 $_['text_edit']        = 'Edit Pilibaba Checkout Button Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify Pilibaba Checkout Button module!';

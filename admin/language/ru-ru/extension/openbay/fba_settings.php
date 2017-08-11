@@ -6,7 +6,7 @@ $_['text_fba']                 = 'Fulfillment by Amazon';
 
 // Text
 $_['text_success']     		   = 'Your settings have been saved';
-$_['text_status']         	   = 'Status';
+$_['text_status']         	   = 'Статус';
 $_['text_account_ok']  		   = 'Connection to Fulfillment by Amazon OK';
 $_['text_api_ok']       	   = 'API connection OK';
 $_['text_api_status']          = 'API connection';

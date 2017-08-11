@@ -56,7 +56,7 @@ $_['text_patch_option']				    = 'Manual patching';
 
 // Column
 $_['column_name']          				= 'Plugin name';
-$_['column_status']        				= 'Status';
+$_['column_status']        				= 'Статус';
 $_['column_action']        				= 'Действие';
 
 // Entry

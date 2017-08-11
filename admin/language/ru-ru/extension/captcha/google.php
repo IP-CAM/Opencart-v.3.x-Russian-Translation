@@ -11,7 +11,7 @@ $_['text_signup']      = 'Go to <a href="https://www.google.com/recaptcha/intro/
 // Entry
 $_['entry_key']        = 'Site key';
 $_['entry_secret']     = 'Secret key';
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify Google reCAPTCHA!';

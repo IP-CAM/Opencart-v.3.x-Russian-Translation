@@ -23,4 +23,4 @@ $_['column_instalment']        = 'Instalment';
 $_['column_amount']            = 'Amount';
 $_['column_date']              = 'Date';
 $_['column_pp_trans_id']       = 'PayPal Transaction ID';
-$_['column_status']            = 'Status';
+$_['column_status']            = 'Статус';

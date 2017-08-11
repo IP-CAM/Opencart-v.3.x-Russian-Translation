@@ -8,7 +8,7 @@ $_['text_success']     = 'Успех: You have modified Google Sitemap feed!';
 $_['text_edit']        = 'Edit Google Sitemap';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 $_['entry_data_feed']  = 'Data Feed Url';
 
 // Error

@@ -13,7 +13,7 @@ $_['entry_postcode']     = 'Post Code';
 $_['entry_weight_class'] = 'Weight Class';
 $_['entry_tax_class']    = 'Tax Class';
 $_['entry_geo_zone']     = 'Geo Zone';
-$_['entry_status']       = 'Status';
+$_['entry_status']       = 'Статус';
 $_['entry_sort_order']   = 'Порядок сортировки';
 
 // Help

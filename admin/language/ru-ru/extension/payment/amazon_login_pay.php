@@ -57,14 +57,14 @@ $_['text_column_capture_id']	   = 'Amazon Capture ID';
 $_['text_column_refund_id']		   = 'Amazon Refund ID';
 $_['text_column_amount']		   = 'Amount';
 $_['text_column_type']			   = 'Type';
-$_['text_column_status']		   = 'Status';
+$_['text_column_status']		   = 'Статус';
 $_['text_column_date_added']	   = 'Date added';
 $_['text_confirm_cancel']		   = 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']		   = 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']		   = 'Are you sure you want to refund the payment?';
 $_['text_minimum_total']           = 'Minimum Order Total';
 $_['text_geo_zone']                = 'Geo Zone';
-$_['text_status']                  = 'Status';
+$_['text_status']                  = 'Статус';
 $_['text_declined_codes']          = 'Test Decline Codes';
 $_['text_sort_order']              = 'Порядок сортировки';
 $_['text_amazon_invalid']          = 'InvalidPaymentMethod';
@@ -76,7 +76,7 @@ $_['text_credentials']			   = 'Please paste your keys here (in JSON format)';
 $_['text_validate_credentials']	   = 'Validate and Use Credentials';
 
 // Columns
-$_['column_status']                = 'Status';
+$_['column_status']                = 'Статус';
 
 //entry
 $_['entry_merchant_id']            = 'Merchant ID';

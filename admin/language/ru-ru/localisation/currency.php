@@ -23,7 +23,7 @@ $_['entry_value']          = 'Value';
 $_['entry_symbol_left']    = 'Symbol Left';
 $_['entry_symbol_right']   = 'Symbol Right';
 $_['entry_decimal_place']  = 'Decimal Places';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'Статус';
 
 // Help
 $_['help_code']            = 'Do not change if this is your default currency.';

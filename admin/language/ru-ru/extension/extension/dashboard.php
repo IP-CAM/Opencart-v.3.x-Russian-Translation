@@ -9,7 +9,7 @@ $_['text_list']         = 'Dashboard List';
 // Column
 $_['column_name']       = 'Dashboard Name';
 $_['column_width']      = 'Width';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Статус';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 

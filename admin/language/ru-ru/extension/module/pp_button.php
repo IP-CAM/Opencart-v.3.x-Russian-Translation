@@ -14,7 +14,7 @@ $_['text_layouts']     = 'After enabling the module, use the layout manager to a
 $_['text_layout_link'] = 'Click here to access layouts page';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify PayPal Express Checkout Button module!';

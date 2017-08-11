@@ -7,7 +7,7 @@ $_['text_success']     = 'Успех: You have modified Sagepay Direct Card Mana
 $_['text_edit']        = 'Edit Sagepay Direct Card Management Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify Sagepay Direct Card Management module!';

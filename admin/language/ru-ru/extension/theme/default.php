@@ -12,7 +12,7 @@ $_['text_image']                       = 'Images';
 
 // Entry
 $_['entry_directory']                  = 'Theme Directory';
-$_['entry_status']                     = 'Status';
+$_['entry_status']                     = 'Статус';
 $_['entry_product_limit']              = 'Default Items Per Page';
 $_['entry_product_description_length'] = 'List Description Limit';
 $_['entry_image_category']             = 'Category Image Size (W x H)';

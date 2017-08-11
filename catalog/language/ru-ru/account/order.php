@@ -30,7 +30,7 @@ $_['column_price']          = 'Price';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Действие';
 $_['column_date_added']     = 'Date Added';
-$_['column_status']         = 'Status';
+$_['column_status']         = 'Статус';
 $_['column_comment']        = 'Comment';
 
 // Error

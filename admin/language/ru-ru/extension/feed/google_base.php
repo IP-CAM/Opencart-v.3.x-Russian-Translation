@@ -17,7 +17,7 @@ $_['column_action']          = 'Действие';
 $_['entry_google_category']  = 'Google Category';
 $_['entry_category']         = 'Category';
 $_['entry_data_feed']        = 'Data Feed Url';
-$_['entry_status']           = 'Status';
+$_['entry_status']           = 'Статус';
 
 // Error
 $_['error_permission']       = 'Внимание: You do not have permission to modify Google Base feed!';

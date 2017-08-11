@@ -8,7 +8,7 @@ $_['text_list']        = 'Analytics List';
 
 // Column
 $_['column_name']      = 'Marketing Name';
-$_['column_status']    = 'Status';
+$_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 
 // Error

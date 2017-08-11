@@ -13,7 +13,7 @@ $_['column_viewed']    = 'Viewed';
 $_['column_percent']   = 'Percent';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error

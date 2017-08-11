@@ -8,7 +8,7 @@ $_['text_list']        = 'Anti-Fraud List';
 
 // Column
 $_['column_name']      = 'Anti-Fraud Name';
-$_['column_status']    = 'Status';
+$_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 
 // Error

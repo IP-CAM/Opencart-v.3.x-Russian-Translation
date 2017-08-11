@@ -62,7 +62,7 @@ $_['text_error']                              = 'Error:';
 $_['entry_key']                               = 'MaxMind License Key';
 $_['entry_score']                             = 'Risk Score';
 $_['entry_order_status']                      = 'Order Status';
-$_['entry_status']                            = 'Status';
+$_['entry_status']                            = 'Статус';
 
 // Help
 $_['help_order_status']                       = 'Заказы that have a score over your set risk score will be assigned this order status and will not be allowed to reach the complete status automatically.';

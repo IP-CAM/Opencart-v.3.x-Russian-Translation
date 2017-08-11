@@ -12,7 +12,7 @@ $_['text_action']       = 'Действие';
 
 // Column
 $_['column_code']       = 'Event Code';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Статус';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 

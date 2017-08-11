@@ -10,7 +10,7 @@ $_['text_default']     = 'Default';
 
 // Entry
 $_['entry_code']       = 'Google Analytics Code';
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify Google Analytics!';

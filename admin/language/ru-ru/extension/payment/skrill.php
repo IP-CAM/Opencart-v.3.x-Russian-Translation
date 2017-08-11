@@ -18,7 +18,7 @@ $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';
 $_['entry_chargeback_status'] = 'Chargeback Status';
 $_['entry_geo_zone']		  = 'Geo Zone';
-$_['entry_status']			  = 'Status';
+$_['entry_status']			  = 'Статус';
 $_['entry_sort_order']		  = 'Порядок сортировки';
 
 // Help

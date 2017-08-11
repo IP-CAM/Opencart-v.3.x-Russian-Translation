@@ -8,7 +8,7 @@ $_['text_list']        = 'Feed List';
 
 // Column
 $_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
+$_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 
 // Error

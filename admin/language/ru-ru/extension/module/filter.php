@@ -8,7 +8,7 @@ $_['text_success']     = 'Успех: You have modified filter module!';
 $_['text_edit']        = 'Edit Filter Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Внимание: You do not have permission to modify filter module!';

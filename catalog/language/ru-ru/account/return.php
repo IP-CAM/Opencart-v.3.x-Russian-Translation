@@ -24,7 +24,7 @@ $_['text_agree']         = 'I have read and agree to the <a href="%s" class="agr
 // Column
 $_['column_return_id']   = 'Return ID';
 $_['column_order_id']    = 'Order ID';
-$_['column_status']      = 'Status';
+$_['column_status']      = 'Статус';
 $_['column_date_added']  = 'Date Added';
 $_['column_customer']    = 'Customer';
 $_['column_product']     = 'Product Name';

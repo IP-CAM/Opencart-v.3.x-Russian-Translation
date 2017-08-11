@@ -10,7 +10,7 @@ $_['text_recommended']  = 'Payments - Recommended Solutions';
 
 // Column
 $_['column_name']       = 'Payment Method';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Статус';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 

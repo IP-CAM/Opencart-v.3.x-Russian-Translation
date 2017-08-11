@@ -38,7 +38,7 @@ $_['entry_secret_key']      = 'Secret Key';
 $_['entry_environment']     = 'Environment';
 $_['entry_shipping_fee']    = 'Shipping Fee';
 $_['entry_order_status']    = 'Order Status';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_logging']         = 'Debug Logging';
 $_['entry_sort_order']      = 'Порядок сортировки';
 

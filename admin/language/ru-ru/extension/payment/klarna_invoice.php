@@ -24,7 +24,7 @@ $_['entry_total']			= 'Total';
 $_['entry_pending_status']	= 'Pending Status';
 $_['entry_accepted_status'] = 'Accepted Status';
 $_['entry_geo_zone']		= 'Geo Zone';
-$_['entry_status']			= 'Status';
+$_['entry_status']			= 'Статус';
 $_['entry_sort_order']		= 'Порядок сортировки';
 
 // Help
