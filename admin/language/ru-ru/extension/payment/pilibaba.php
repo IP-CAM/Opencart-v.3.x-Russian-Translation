@@ -4,7 +4,7 @@ $_['heading_title']         = 'Pilibaba for Chinese Checkout';
 
 // Tab
 $_['tab_register']          = 'Register';
-$_['tab_settings']          = 'Settings';
+$_['tab_settings']          = 'Настройки';
 
 // Text
 $_['text_extension']        = 'Расширения';

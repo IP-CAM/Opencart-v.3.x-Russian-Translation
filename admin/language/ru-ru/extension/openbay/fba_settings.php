@@ -1,6 +1,6 @@
 <?php
 // Headings
-$_['heading_title']        	   = 'Settings';
+$_['heading_title']        	   = 'Настройки';
 $_['text_openbay']             = 'OpenBay Pro';
 $_['text_fba']                 = 'Fulfillment by Amazon';
 

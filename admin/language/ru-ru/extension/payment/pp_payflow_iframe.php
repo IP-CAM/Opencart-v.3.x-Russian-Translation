@@ -32,7 +32,7 @@ $_['column_time']					 = 'Time';
 $_['column_actions']				 = 'Actions';
 
 // Tab
-$_['tab_settings']					 = 'Settings';
+$_['tab_settings']					 = 'Настройки';
 $_['tab_order_status']				 = 'Order Status';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 

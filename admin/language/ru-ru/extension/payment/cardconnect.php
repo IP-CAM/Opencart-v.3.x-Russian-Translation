@@ -3,7 +3,7 @@
 $_['heading_title']                 = 'CardConnect';
 
 // Tab
-$_['tab_settings']                  = 'Settings';
+$_['tab_settings']                  = 'Настройки';
 $_['tab_order_status']              = 'Order Status';
 
 // Text

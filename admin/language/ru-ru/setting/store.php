@@ -3,7 +3,7 @@
 $_['heading_title']                = 'Магазины';
 
 // Text
-$_['text_settings']                = 'Settings';
+$_['text_settings']                = 'Настройки';
 $_['text_success']                 = 'Успех: You have modified Магазины!';
 $_['text_list']                    = 'Store List';
 $_['text_add']                     = 'Add Store';

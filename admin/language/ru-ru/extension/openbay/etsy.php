@@ -6,7 +6,7 @@ $_['text_dashboard']		= 'Etsy Dashboard';
 
 // Messages
 $_['text_success']         	= 'You have saved your changes to the Etsy extension';
-$_['text_heading_settings'] = 'Settings';
+$_['text_heading_settings'] = 'Настройки';
 $_['text_heading_sync']     = 'Synchronise';
 $_['text_heading_register'] = 'Register here';
 $_['text_heading_products'] = 'Item links';

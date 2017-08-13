@@ -9,7 +9,7 @@ $_['button_patch']						= 'Patch';
 $_['button_faq']						= 'View FAQ topic';
 
 // Tab
-$_['tab_setting']						= 'Settings';
+$_['tab_setting']						= 'Настройки';
 $_['tab_update']						= 'Software updates';
 $_['tab_developer']						= 'Developer';
 

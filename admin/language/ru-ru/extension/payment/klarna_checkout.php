@@ -172,7 +172,7 @@ $_['error_secret']						 = 'Shared Secret Required!';
 $_['error_tax_warning']					 = 'Внимание: Some of your products use a Payment Address based Tax Class. Klarna Checkout will not work when any of these are placed in the cart.';
 
 // Tab
-$_['tab_setting']						 = 'Settings';
+$_['tab_setting']						 = 'Настройки';
 $_['tab_order_status']					 = 'Order Statuses';
 $_['tab_account']						 = 'Accounts';
 $_['tab_settlement']					 = 'Settlement';

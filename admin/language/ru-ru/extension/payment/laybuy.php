@@ -4,7 +4,7 @@ $_['heading_title']                 = 'Lay-Buy';
 $_['heading_transaction_title']     = 'Transaction';
 
 // Tab
-$_['tab_settings']                  = 'Settings';
+$_['tab_settings']                  = 'Настройки';
 $_['tab_reports']                   = 'Reports';
 $_['tab_reference']                 = 'Reference Information';
 $_['tab_customer']                  = 'Customer Information';

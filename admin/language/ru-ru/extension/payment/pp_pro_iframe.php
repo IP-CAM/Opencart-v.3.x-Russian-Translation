@@ -119,7 +119,7 @@ $_['column_date_added']				 = 'Created';
 $_['column_action']					 = 'Действие';
 
 // Tab
-$_['tab_settings']					 = 'Settings';
+$_['tab_settings']					 = 'Настройки';
 $_['tab_order_status']				 = 'Order Status';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 

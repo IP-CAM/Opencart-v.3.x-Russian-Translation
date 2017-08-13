@@ -15,7 +15,7 @@ $_['help_notify_recurring_success']                     = 'Notify customers abou
 $_['help_notify_recurring_fail']                        = 'Notify customers about failed recurring transactions.';
 
 // Tab
-$_['tab_setting']                                       = 'Settings';
+$_['tab_setting']                                       = 'Настройки';
 $_['tab_transaction']                                   = 'Transactions';
 $_['tab_cron']                                          = 'CRON';
 $_['tab_recurring']                                     = 'Recurring Payments';

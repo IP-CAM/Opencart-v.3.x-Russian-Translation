@@ -182,7 +182,7 @@ $_['error_braintree_account_billing']	= 'Billing agreements are not enabled in y
 $_['error_environment']					= 'You cannot set your environment to %s when your credentials are for the %s environment in Braintree';
 
 // Tab
-$_['tab_setting']					 	= 'Settings';
+$_['tab_setting']					 	= 'Настройки';
 $_['tab_currency']					 	= 'Currencies';
 $_['tab_order_status']				 	= 'Order Statuses (New Заказы)';
 $_['tab_3ds']						 	= '3-D Secure';
