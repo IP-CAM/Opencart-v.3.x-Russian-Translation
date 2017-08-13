@@ -3,7 +3,7 @@
 $_['heading_title']                        = 'Recurring Payments';
 
 // Text
-$_['text_account']                         = 'Account';
+$_['text_account']                         = 'Аккаунт';
 $_['text_recurring']                       = 'Recurring Payment Information';
 $_['text_recurring_detail']                = 'Recurring Payment Details';
 $_['text_order_recurring_id']              = 'Recurring ID:';

@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Product Returns';
 
 // Text
-$_['text_account']       = 'Account';
+$_['text_account']       = 'Аккаунт';
 $_['text_return']        = 'Return Information';
 $_['text_return_detail'] = 'Return Details';
 $_['text_description']   = 'Please complete the form below to request an RMA number.';
